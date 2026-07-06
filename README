@@ -1,0 +1,35 @@
+Parallel O(sqrt(n)) Overhead LSD Radix Sort
+===========================================
+
+This repository holds supplementary material for the paper
+"Parallel O(sqrt(n)) Overhead LSD Radix Sort" by R. Clausecker
+and F. Schintke.  It is made available under a 2-clause BSD
+license.
+
+The benchmarks sort 32 bit integers in four passes.
+
+To compile:
+
+    cc -O3 -fopenmp -DNDEBUG -o benchmark *.c
+
+add -mavx2 when compiling on recent x86, -faltivec when
+compiling on powerpc*.
+
+The benchmark's output follows the conventions of the Go
+benchmark framework and can be analysed with the benchstat
+tool.
+
+The subdirectory generic contains a largely untested
+type-generic implementation.  While complete, it is likely
+not functional as is.  Unfortunately I ran out of time due
+to other commitments and was unable to finish it.
+
+The results directly holds the raw data on which the results
+in the paper were based.  The zen4 and volterra result sets
+did not make the cut due to lack of space and correctness
+issues (no frequency-scaling driver was loaded on the volterra
+board, leaving it to run on the lowest supported CPU clock).
+
+Code  (c) 2025, 2026 Robert Clausecker <clausecker@zib.de>
+Paper (c) 2025, 2026 Robert Clausecker <clausecker@zib.de>,
+                     Florian Schintke <schintke@zib.de>

@@ -1,0 +1,120 @@
+items: 17179869184
+threads: 54
+os: Linux
+arch: aarch64
+
+BenchmarkParallelFull	1	5.4913718e+10 ns/op	2502.8164 MB/s
+items: 17179869184
+threads: 54
+os: Linux
+arch: aarch64
+
+BenchmarkParallelFull	1	3.2223141e+10 ns/op	4265.2252 MB/s
+items: 17179869184
+threads: 54
+os: Linux
+arch: aarch64
+
+BenchmarkParallelFull	1	3.240265e+10 ns/op	4241.5961 MB/s
+items: 17179869184
+threads: 54
+os: Linux
+arch: aarch64
+
+BenchmarkParallelFull	1	3.1985891e+10 ns/op	4296.8618 MB/s
+items: 17179869184
+threads: 54
+os: Linux
+arch: aarch64
+
+BenchmarkParallelFull	1	3.1893535e+10 ns/op	4309.3045 MB/s
+items: 17179869184
+threads: 54
+os: Linux
+arch: aarch64
+
+BenchmarkParallelFull	1	5.4594137e+10 ns/op	2517.4673 MB/s
+items: 17179869184
+threads: 54
+os: Linux
+arch: aarch64
+
+BenchmarkParallelFull	1	3.2020826e+10 ns/op	4292.1738 MB/s
+items: 17179869184
+threads: 54
+os: Linux
+arch: aarch64
+
+BenchmarkParallelFull	1	3.238219e+10 ns/op	4244.276 MB/s
+items: 17179869184
+threads: 54
+os: Linux
+arch: aarch64
+
+BenchmarkParallelFull	1	3.293437e+10 ns/op	4173.1162 MB/s
+items: 17179869184
+threads: 54
+os: Linux
+arch: aarch64
+
+BenchmarkParallelFull	1	3.1589567e+10 ns/op	4350.7704 MB/s
+items: 17179869184
+threads: 54
+os: Linux
+arch: aarch64
+
+BenchmarkParallelFull	1	5.4110557e+10 ns/op	2539.9656 MB/s
+items: 17179869184
+threads: 54
+os: Linux
+arch: aarch64
+
+BenchmarkParallelFull	1	3.2085216e+10 ns/op	4283.5602 MB/s
+items: 17179869184
+threads: 54
+os: Linux
+arch: aarch64
+
+BenchmarkParallelFull	1	3.1628799e+10 ns/op	4345.3738 MB/s
+items: 17179869184
+threads: 54
+os: Linux
+arch: aarch64
+
+BenchmarkParallelFull	1	3.1692504e+10 ns/op	4336.6392 MB/s
+items: 17179869184
+threads: 54
+os: Linux
+arch: aarch64
+
+BenchmarkParallelFull	1	5.3661716e+10 ns/op	2561.2106 MB/s
+items: 17179869184
+threads: 54
+os: Linux
+arch: aarch64
+
+BenchmarkParallelFull	1	3.1871503e+10 ns/op	4312.2834 MB/s
+items: 17179869184
+threads: 54
+os: Linux
+arch: aarch64
+
+BenchmarkParallelFull	1	3.186855e+10 ns/op	4312.683 MB/s
+items: 17179869184
+threads: 54
+os: Linux
+arch: aarch64
+
+BenchmarkParallelFull	1	5.3713649e+10 ns/op	2558.7343 MB/s
+items: 17179869184
+threads: 54
+os: Linux
+arch: aarch64
+
+BenchmarkParallelFull	1	5.369987e+10 ns/op	2559.3908 MB/s
+items: 17179869184
+threads: 54
+os: Linux
+arch: aarch64
+
+BenchmarkParallelFull	1	3.1994585e+10 ns/op	4295.6942 MB/s

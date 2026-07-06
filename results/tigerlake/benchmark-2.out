@@ -1,0 +1,220 @@
+items: 2
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+
+BenchmarkGenericFull	2931878	408.86567 ns/op	39.132657 MB/s
+BenchmarkSwcFull	1000000	1143.1583 ns/op	13.996312 MB/s
+BenchmarkPermutedFull	16546	71845.022 ns/op	0.22270158 MB/s
+BenchmarkBitmanipFull	16594	72333.796 ns/op	0.22119674 MB/s
+BenchmarkParallelFull	1513	774493.93 ns/op	0.020658651 MB/s
+items: 2
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+
+BenchmarkGenericFull	2928244	408.91315 ns/op	39.128113 MB/s
+BenchmarkSwcFull	1000000	1156.064 ns/op	13.840064 MB/s
+BenchmarkPermutedFull	16826	69848.746 ns/op	0.22906639 MB/s
+BenchmarkBitmanipFull	17144	69811.149 ns/op	0.22918975 MB/s
+BenchmarkParallelFull	1531	779924.4 ns/op	0.020514809 MB/s
+items: 2
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+
+BenchmarkGenericFull	2942286	407.83785 ns/op	39.231277 MB/s
+BenchmarkSwcFull	1000000	1153.4748 ns/op	13.871131 MB/s
+BenchmarkPermutedFull	17012	69126.751 ns/op	0.23145887 MB/s
+BenchmarkBitmanipFull	17384	68751.849 ns/op	0.23272102 MB/s
+BenchmarkParallelFull	1540	758154.94 ns/op	0.021103866 MB/s
+items: 2
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+
+BenchmarkGenericFull	2940528	407.54707 ns/op	39.259269 MB/s
+BenchmarkSwcFull	1000000	1139.1833 ns/op	14.04515 MB/s
+BenchmarkPermutedFull	16478	72865.836 ns/op	0.21958164 MB/s
+BenchmarkBitmanipFull	16593	71670.628 ns/op	0.22324347 MB/s
+BenchmarkParallelFull	1392	792914.29 ns/op	0.020178726 MB/s
+items: 2
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+
+BenchmarkGenericFull	2936126	408.03374 ns/op	39.212444 MB/s
+BenchmarkSwcFull	1000000	1146.0576 ns/op	13.960903 MB/s
+BenchmarkPermutedFull	16293	72384.629 ns/op	0.2210414 MB/s
+BenchmarkBitmanipFull	16424	72533.504 ns/op	0.22058772 MB/s
+BenchmarkParallelFull	1516	771215.38 ns/op	0.020746474 MB/s
+items: 2
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+
+BenchmarkGenericFull	2939209	407.34794 ns/op	39.278461 MB/s
+BenchmarkSwcFull	1000000	1143.2305 ns/op	13.995428 MB/s
+BenchmarkPermutedFull	16756	69263.169 ns/op	0.231003 MB/s
+BenchmarkBitmanipFull	17283	68945.993 ns/op	0.2320657 MB/s
+BenchmarkParallelFull	1542	796479.66 ns/op	0.020088398 MB/s
+items: 2
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+
+BenchmarkGenericFull	2912944	411.18386 ns/op	38.912034 MB/s
+BenchmarkSwcFull	1000000	1152.0905 ns/op	13.887798 MB/s
+BenchmarkPermutedFull	16508	71030.406 ns/op	0.22525565 MB/s
+BenchmarkBitmanipFull	17316	69095.765 ns/op	0.23156267 MB/s
+BenchmarkParallelFull	1532	776725.15 ns/op	0.020599307 MB/s
+items: 2
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+
+BenchmarkGenericFull	2922044	409.18197 ns/op	39.102407 MB/s
+BenchmarkSwcFull	1000000	1159.4124 ns/op	13.800093 MB/s
+BenchmarkPermutedFull	16510	71433.577 ns/op	0.2239843 MB/s
+BenchmarkBitmanipFull	16420	72341.694 ns/op	0.22117259 MB/s
+BenchmarkParallelFull	1502	775679.89 ns/op	0.020627066 MB/s
+items: 2
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+
+BenchmarkGenericFull	2933422	408.4687 ns/op	39.170688 MB/s
+BenchmarkSwcFull	1000000	1148.1888 ns/op	13.93499 MB/s
+BenchmarkPermutedFull	16308	73044.311 ns/op	0.21904512 MB/s
+BenchmarkBitmanipFull	16539	72900.642 ns/op	0.21947681 MB/s
+BenchmarkParallelFull	1525	777793.48 ns/op	0.020571013 MB/s
+items: 2
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+
+BenchmarkGenericFull	2936012	408.67837 ns/op	39.150591 MB/s
+BenchmarkSwcFull	1000000	1146.9619 ns/op	13.949896 MB/s
+BenchmarkPermutedFull	17120	69084.016 ns/op	0.23160205 MB/s
+BenchmarkBitmanipFull	17329	68974.855 ns/op	0.23196859 MB/s
+BenchmarkParallelFull	1400	832870.2 ns/op	0.019210677 MB/s
+items: 2
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+
+BenchmarkGenericFull	2899239	413.18776 ns/op	38.723316 MB/s
+BenchmarkSwcFull	1000000	1152.6308 ns/op	13.881288 MB/s
+BenchmarkPermutedFull	16393	72611.311 ns/op	0.22035135 MB/s
+BenchmarkBitmanipFull	16621	72754.524 ns/op	0.2199176 MB/s
+BenchmarkParallelFull	1513	769511.81 ns/op	0.020792403 MB/s
+items: 2
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+
+BenchmarkGenericFull	2939832	407.75088 ns/op	39.239645 MB/s
+BenchmarkSwcFull	1000000	1149.1576 ns/op	13.923242 MB/s
+BenchmarkPermutedFull	16958	70683.761 ns/op	0.22636034 MB/s
+BenchmarkBitmanipFull	17054	70771.093 ns/op	0.22608101 MB/s
+BenchmarkParallelFull	1526	791169.66 ns/op	0.020223222 MB/s
+items: 2
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+
+BenchmarkGenericFull	2937255	407.81274 ns/op	39.233694 MB/s
+BenchmarkSwcFull	1000000	1153.765 ns/op	13.867642 MB/s
+BenchmarkPermutedFull	16864	70597.661 ns/op	0.2266364 MB/s
+BenchmarkBitmanipFull	17169	70638.39 ns/op	0.22650573 MB/s
+BenchmarkParallelFull	1527	769803.07 ns/op	0.020784536 MB/s
+items: 2
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+
+BenchmarkGenericFull	2919466	408.84498 ns/op	39.134637 MB/s
+BenchmarkSwcFull	1000000	1158.0107 ns/op	13.816798 MB/s
+BenchmarkPermutedFull	16744	70342.744 ns/op	0.22745772 MB/s
+BenchmarkBitmanipFull	16998	70515.838 ns/op	0.22689938 MB/s
+BenchmarkParallelFull	1527	763922.13 ns/op	0.020944543 MB/s
+items: 2
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+
+BenchmarkGenericFull	2916012	408.65512 ns/op	39.152819 MB/s
+BenchmarkSwcFull	1000000	1148.3602 ns/op	13.932911 MB/s
+BenchmarkPermutedFull	16378	72555.459 ns/op	0.22052097 MB/s
+BenchmarkBitmanipFull	16659	72179.399 ns/op	0.2216699 MB/s
+BenchmarkParallelFull	1508	772032 ns/op	0.02072453 MB/s
+items: 2
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+
+BenchmarkGenericFull	2942133	407.74269 ns/op	39.240433 MB/s
+BenchmarkSwcFull	1000000	1145.4009 ns/op	13.968908 MB/s
+BenchmarkPermutedFull	16732	70761.065 ns/op	0.22611305 MB/s
+BenchmarkBitmanipFull	17064	70269.539 ns/op	0.22769468 MB/s
+BenchmarkParallelFull	1524	763918.65 ns/op	0.020944639 MB/s
+items: 2
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+
+BenchmarkGenericFull	2931619	408.63313 ns/op	39.154926 MB/s
+BenchmarkSwcFull	1000000	1145.4587 ns/op	13.968203 MB/s
+BenchmarkPermutedFull	17154	69204.16 ns/op	0.23119997 MB/s
+BenchmarkBitmanipFull	17542	68363.889 ns/op	0.23404169 MB/s
+BenchmarkParallelFull	1551	758542.99 ns/op	0.021093069 MB/s
+items: 2
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+
+BenchmarkGenericFull	2912518	411.75745 ns/op	38.857828 MB/s
+BenchmarkSwcFull	1000000	1147.0592 ns/op	13.948713 MB/s
+BenchmarkPermutedFull	16560	71578.461 ns/op	0.22353093 MB/s
+BenchmarkBitmanipFull	16647	72494.368 ns/op	0.2207068 MB/s
+BenchmarkParallelFull	1518	768396.11 ns/op	0.020822594 MB/s
+items: 2
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+
+BenchmarkGenericFull	2913514	412.60525 ns/op	38.777985 MB/s
+BenchmarkSwcFull	1000000	1148.9467 ns/op	13.925798 MB/s
+BenchmarkPermutedFull	16545	72044.31 ns/op	0.22208555 MB/s
+BenchmarkBitmanipFull	16692	71886.031 ns/op	0.22257454 MB/s
+BenchmarkParallelFull	1514	769933.76 ns/op	0.020781008 MB/s
+items: 2
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+
+BenchmarkGenericFull	2938999	409.05306 ns/op	39.11473 MB/s
+BenchmarkSwcFull	1000000	1152.2341 ns/op	13.886067 MB/s
+BenchmarkPermutedFull	16317	72425.052 ns/op	0.22091803 MB/s
+BenchmarkBitmanipFull	16760	72095.369 ns/op	0.22192826 MB/s
+BenchmarkParallelFull	1515	770533.85 ns/op	0.020764824 MB/s

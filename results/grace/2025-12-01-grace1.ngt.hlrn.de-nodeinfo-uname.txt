@@ -1,0 +1,1 @@
+Linux grace1 5.14.0-570.21.1.el9_6.aarch64 #1 SMP PREEMPT_DYNAMIC Tue Jun 10 14:51:44 EDT 2025 aarch64 aarch64 aarch64 GNU/Linux

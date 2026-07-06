@@ -1,0 +1,70 @@
+# column 01: key
+# column 02: threads
+# column 03: 'speed:'
+# column 04: arithmetical average speed
+# column 05: minimum speed
+# column 06: maximum speed
+# column 07: 'MB/s' the unit of speed
+# column 08: repetitions, how many data points where used for statistics
+# column 09: 'arch:'
+# column 10: processor architecture
+# column 11: 'os:'
+# column 12: operating system
+# column 13: 'items:'
+# column 14: number of items sorted
+BenchmarkParallelFull-1 1 speed: 696.398 676.34736 712.50141 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-2 2 speed: 1162.81 1147.0355 1178.2675 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-3 3 speed: 1121.56 1031.1727 1270.1945 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-4 4 speed: 1476.75 1378.1199 1643.0114 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-5 5 speed: 1583.08 1431.5393 1799.3711 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-6 6 speed: 1812.09 1730.9184 1894.395 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-7 7 speed: 1886.01 1723.5151 1956.5369 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-8 8 speed: 2081.38 1879.2482 2160.3331 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-9 9 speed: 2127.54 1951.3117 2191.3358 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-10 10 speed: 2263.66 2082.7497 2352.6889 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-11 11 speed: 2312.47 2114.7149 2384.0725 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-12 12 speed: 2399.42 2049.8298 2542.5547 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-13 13 speed: 2427.51 2157.7303 2553.0582 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-14 14 speed: 2532.16 2455.6563 2620.9555 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-15 15 speed: 2546.75 2461.6663 2608.3678 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-16 16 speed: 2560.89 2325.6721 2715.9176 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-18 18 speed: 2644.41 2525.8959 2737.475 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-20 20 speed: 2701.79 2597.5908 2811.9368 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-22 22 speed: 2724.47 2618.5361 2829.4829 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-24 24 speed: 2723.91 2581.3981 2857.492 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-26 26 speed: 2795.59 2679.8067 2898.2461 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-28 28 speed: 2809.8 2688.1198 2900.7295 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-30 30 speed: 2806.19 2707.488 2924.3057 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-32 32 speed: 2797.48 2710.5878 2895.1108 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-34 34 speed: 2828.09 2715.2401 2918.8527 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-36 36 speed: 2842.37 2729.0516 2929.3111 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-38 38 speed: 2804.48 2587.1413 2931.6798 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-40 40 speed: 2810.45 2729.2473 2871.5825 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-42 42 speed: 2832.63 2736.2733 2943.1238 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-44 44 speed: 2829.12 2743.8222 2947.3591 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-46 46 speed: 2813.35 2723.4291 2927.0821 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-48 48 speed: 2823.8 2725.9966 2920.0055 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-50 50 speed: 2828.1 2721.9575 2929.7097 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-52 52 speed: 2783.17 2410.7989 2920.2068 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-54 54 speed: 2820.22 2706.8621 2918.4642 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-56 56 speed: 2806.47 2711.3912 2913.7003 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-58 58 speed: 2787.39 2593.8347 2844.6013 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-60 60 speed: 2839.58 2721.1178 2911.8768 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-62 62 speed: 2825.92 2725.8533 2920.4339 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-64 64 speed: 2792.24 2475.1272 2883.8382 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-68 68 speed: 2753.69 2660.8105 2828.6659 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-72 72 speed: 2763.03 2659.7399 2842.2309 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-76 76 speed: 2736.51 2291.5061 2848.8942 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-80 80 speed: 2744.46 2512.8675 2845.188 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-84 84 speed: 2774.8 2337.1706 2860.496 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-88 88 speed: 2755.12 2429.9954 2840.5873 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-92 92 speed: 2763.16 2442.4301 2841.0127 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-96 96 speed: 2764.37 2500.2483 2840.9384 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-100 100 speed: 2700.99 2315.2312 2818.9462 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-104 104 speed: 2684.93 2306.0911 2815.7491 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-108 108 speed: 2758.49 2641.7719 2802.5581 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-112 112 speed: 2736.93 2338.2706 2804.2897 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-116 116 speed: 2734.45 2430.0463 2805.1852 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-120 120 speed: 2690.33 2358.6417 2791.1724 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-124 124 speed: 2721.63 2367.0686 2800.8012 MB/s 20 arch: x86_64 os: Linux items: 17179869184
+BenchmarkParallelFull-128 128 speed: 2666.78 2415.4478 2767.6165 MB/s 20 arch: x86_64 os: Linux items: 17179869184

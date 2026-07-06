@@ -1,0 +1,22 @@
+items: 786432
+threads: 4
+os: FreeBSD
+arch: arm64
+cpu: ARM Cortex-A78C r0p0
+,benchmark-786432.out,
+,sec/op,CI
+GenericFull,0.020238229000000003,0%
+SwcFull,0.053994900000000005,0%
+PermutedFull,0.050701760000000005,0%
+BitmanipFull,0.0293150275,1%
+ParallelFull,0.018743828,1%
+geomean,0.03138335544898525,
+
+,benchmark-786432.out,
+,B/s,CI
+GenericFull,3.10870115e+08,0%
+SwcFull,1.1651948e+08,0%
+PermutedFull,1.24087615e+08,0%
+BitmanipFull,2.14617025e+08,1%
+ParallelFull,3.3565606e+08,1%
+geomean,2.0047163037511188e+08,

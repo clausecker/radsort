@@ -1,0 +1,229 @@
+Machine (377GB total)
+  Package L#0
+    NUMANode L#0 (P#0 188GB)
+    L3 L#0 (48MB)
+      L2 L#0 (1280KB) + L1d L#0 (48KB) + L1i L#0 (32KB) + Core L#0
+        PU L#0 (P#0)
+        PU L#1 (P#64)
+      L2 L#1 (1280KB) + L1d L#1 (48KB) + L1i L#1 (32KB) + Core L#1
+        PU L#2 (P#2)
+        PU L#3 (P#66)
+      L2 L#2 (1280KB) + L1d L#2 (48KB) + L1i L#2 (32KB) + Core L#2
+        PU L#4 (P#4)
+        PU L#5 (P#68)
+      L2 L#3 (1280KB) + L1d L#3 (48KB) + L1i L#3 (32KB) + Core L#3
+        PU L#6 (P#6)
+        PU L#7 (P#70)
+      L2 L#4 (1280KB) + L1d L#4 (48KB) + L1i L#4 (32KB) + Core L#4
+        PU L#8 (P#8)
+        PU L#9 (P#72)
+      L2 L#5 (1280KB) + L1d L#5 (48KB) + L1i L#5 (32KB) + Core L#5
+        PU L#10 (P#10)
+        PU L#11 (P#74)
+      L2 L#6 (1280KB) + L1d L#6 (48KB) + L1i L#6 (32KB) + Core L#6
+        PU L#12 (P#12)
+        PU L#13 (P#76)
+      L2 L#7 (1280KB) + L1d L#7 (48KB) + L1i L#7 (32KB) + Core L#7
+        PU L#14 (P#14)
+        PU L#15 (P#78)
+      L2 L#8 (1280KB) + L1d L#8 (48KB) + L1i L#8 (32KB) + Core L#8
+        PU L#16 (P#16)
+        PU L#17 (P#80)
+      L2 L#9 (1280KB) + L1d L#9 (48KB) + L1i L#9 (32KB) + Core L#9
+        PU L#18 (P#18)
+        PU L#19 (P#82)
+      L2 L#10 (1280KB) + L1d L#10 (48KB) + L1i L#10 (32KB) + Core L#10
+        PU L#20 (P#20)
+        PU L#21 (P#84)
+      L2 L#11 (1280KB) + L1d L#11 (48KB) + L1i L#11 (32KB) + Core L#11
+        PU L#22 (P#22)
+        PU L#23 (P#86)
+      L2 L#12 (1280KB) + L1d L#12 (48KB) + L1i L#12 (32KB) + Core L#12
+        PU L#24 (P#24)
+        PU L#25 (P#88)
+      L2 L#13 (1280KB) + L1d L#13 (48KB) + L1i L#13 (32KB) + Core L#13
+        PU L#26 (P#26)
+        PU L#27 (P#90)
+      L2 L#14 (1280KB) + L1d L#14 (48KB) + L1i L#14 (32KB) + Core L#14
+        PU L#28 (P#28)
+        PU L#29 (P#92)
+      L2 L#15 (1280KB) + L1d L#15 (48KB) + L1i L#15 (32KB) + Core L#15
+        PU L#30 (P#30)
+        PU L#31 (P#94)
+      L2 L#16 (1280KB) + L1d L#16 (48KB) + L1i L#16 (32KB) + Core L#16
+        PU L#32 (P#32)
+        PU L#33 (P#96)
+      L2 L#17 (1280KB) + L1d L#17 (48KB) + L1i L#17 (32KB) + Core L#17
+        PU L#34 (P#34)
+        PU L#35 (P#98)
+      L2 L#18 (1280KB) + L1d L#18 (48KB) + L1i L#18 (32KB) + Core L#18
+        PU L#36 (P#36)
+        PU L#37 (P#100)
+      L2 L#19 (1280KB) + L1d L#19 (48KB) + L1i L#19 (32KB) + Core L#19
+        PU L#38 (P#38)
+        PU L#39 (P#102)
+      L2 L#20 (1280KB) + L1d L#20 (48KB) + L1i L#20 (32KB) + Core L#20
+        PU L#40 (P#40)
+        PU L#41 (P#104)
+      L2 L#21 (1280KB) + L1d L#21 (48KB) + L1i L#21 (32KB) + Core L#21
+        PU L#42 (P#42)
+        PU L#43 (P#106)
+      L2 L#22 (1280KB) + L1d L#22 (48KB) + L1i L#22 (32KB) + Core L#22
+        PU L#44 (P#44)
+        PU L#45 (P#108)
+      L2 L#23 (1280KB) + L1d L#23 (48KB) + L1i L#23 (32KB) + Core L#23
+        PU L#46 (P#46)
+        PU L#47 (P#110)
+      L2 L#24 (1280KB) + L1d L#24 (48KB) + L1i L#24 (32KB) + Core L#24
+        PU L#48 (P#48)
+        PU L#49 (P#112)
+      L2 L#25 (1280KB) + L1d L#25 (48KB) + L1i L#25 (32KB) + Core L#25
+        PU L#50 (P#50)
+        PU L#51 (P#114)
+      L2 L#26 (1280KB) + L1d L#26 (48KB) + L1i L#26 (32KB) + Core L#26
+        PU L#52 (P#52)
+        PU L#53 (P#116)
+      L2 L#27 (1280KB) + L1d L#27 (48KB) + L1i L#27 (32KB) + Core L#27
+        PU L#54 (P#54)
+        PU L#55 (P#118)
+      L2 L#28 (1280KB) + L1d L#28 (48KB) + L1i L#28 (32KB) + Core L#28
+        PU L#56 (P#56)
+        PU L#57 (P#120)
+      L2 L#29 (1280KB) + L1d L#29 (48KB) + L1i L#29 (32KB) + Core L#29
+        PU L#58 (P#58)
+        PU L#59 (P#122)
+      L2 L#30 (1280KB) + L1d L#30 (48KB) + L1i L#30 (32KB) + Core L#30
+        PU L#60 (P#60)
+        PU L#61 (P#124)
+      L2 L#31 (1280KB) + L1d L#31 (48KB) + L1i L#31 (32KB) + Core L#31
+        PU L#62 (P#62)
+        PU L#63 (P#126)
+    HostBridge
+      PCI 00:11.5 (SATA)
+      PCI 00:17.0 (SATA)
+      PCIBridge
+        PCIBridge
+          PCI 03:00.0 (VGA)
+      PCIBridge
+        PCI 04:00.0 (Ethernet)
+          Net "eno8303"
+        PCI 04:00.1 (Ethernet)
+          Net "eno8403"
+      PCIBridge
+        PCI 05:00.0 (SATA)
+          Block(Disk) "sdb"
+    HostBridge
+      PCIBridge
+        PCI 17:00.0 (3D)
+    HostBridge
+      PCIBridge
+        PCI 31:00.0 (Ethernet)
+          Net "eno12399np0"
+        PCI 31:00.1 (Ethernet)
+          Net "eno12409np1"
+    HostBridge
+      PCIBridge
+        PCI 65:00.0 (RAID)
+          Block(Disk) "sda"
+  Package L#1
+    NUMANode L#1 (P#1 189GB)
+    L3 L#1 (48MB)
+      L2 L#32 (1280KB) + L1d L#32 (48KB) + L1i L#32 (32KB) + Core L#32
+        PU L#64 (P#1)
+        PU L#65 (P#65)
+      L2 L#33 (1280KB) + L1d L#33 (48KB) + L1i L#33 (32KB) + Core L#33
+        PU L#66 (P#3)
+        PU L#67 (P#67)
+      L2 L#34 (1280KB) + L1d L#34 (48KB) + L1i L#34 (32KB) + Core L#34
+        PU L#68 (P#5)
+        PU L#69 (P#69)
+      L2 L#35 (1280KB) + L1d L#35 (48KB) + L1i L#35 (32KB) + Core L#35
+        PU L#70 (P#7)
+        PU L#71 (P#71)
+      L2 L#36 (1280KB) + L1d L#36 (48KB) + L1i L#36 (32KB) + Core L#36
+        PU L#72 (P#9)
+        PU L#73 (P#73)
+      L2 L#37 (1280KB) + L1d L#37 (48KB) + L1i L#37 (32KB) + Core L#37
+        PU L#74 (P#11)
+        PU L#75 (P#75)
+      L2 L#38 (1280KB) + L1d L#38 (48KB) + L1i L#38 (32KB) + Core L#38
+        PU L#76 (P#13)
+        PU L#77 (P#77)
+      L2 L#39 (1280KB) + L1d L#39 (48KB) + L1i L#39 (32KB) + Core L#39
+        PU L#78 (P#15)
+        PU L#79 (P#79)
+      L2 L#40 (1280KB) + L1d L#40 (48KB) + L1i L#40 (32KB) + Core L#40
+        PU L#80 (P#17)
+        PU L#81 (P#81)
+      L2 L#41 (1280KB) + L1d L#41 (48KB) + L1i L#41 (32KB) + Core L#41
+        PU L#82 (P#19)
+        PU L#83 (P#83)
+      L2 L#42 (1280KB) + L1d L#42 (48KB) + L1i L#42 (32KB) + Core L#42
+        PU L#84 (P#21)
+        PU L#85 (P#85)
+      L2 L#43 (1280KB) + L1d L#43 (48KB) + L1i L#43 (32KB) + Core L#43
+        PU L#86 (P#23)
+        PU L#87 (P#87)
+      L2 L#44 (1280KB) + L1d L#44 (48KB) + L1i L#44 (32KB) + Core L#44
+        PU L#88 (P#25)
+        PU L#89 (P#89)
+      L2 L#45 (1280KB) + L1d L#45 (48KB) + L1i L#45 (32KB) + Core L#45
+        PU L#90 (P#27)
+        PU L#91 (P#91)
+      L2 L#46 (1280KB) + L1d L#46 (48KB) + L1i L#46 (32KB) + Core L#46
+        PU L#92 (P#29)
+        PU L#93 (P#93)
+      L2 L#47 (1280KB) + L1d L#47 (48KB) + L1i L#47 (32KB) + Core L#47
+        PU L#94 (P#31)
+        PU L#95 (P#95)
+      L2 L#48 (1280KB) + L1d L#48 (48KB) + L1i L#48 (32KB) + Core L#48
+        PU L#96 (P#33)
+        PU L#97 (P#97)
+      L2 L#49 (1280KB) + L1d L#49 (48KB) + L1i L#49 (32KB) + Core L#49
+        PU L#98 (P#35)
+        PU L#99 (P#99)
+      L2 L#50 (1280KB) + L1d L#50 (48KB) + L1i L#50 (32KB) + Core L#50
+        PU L#100 (P#37)
+        PU L#101 (P#101)
+      L2 L#51 (1280KB) + L1d L#51 (48KB) + L1i L#51 (32KB) + Core L#51
+        PU L#102 (P#39)
+        PU L#103 (P#103)
+      L2 L#52 (1280KB) + L1d L#52 (48KB) + L1i L#52 (32KB) + Core L#52
+        PU L#104 (P#41)
+        PU L#105 (P#105)
+      L2 L#53 (1280KB) + L1d L#53 (48KB) + L1i L#53 (32KB) + Core L#53
+        PU L#106 (P#43)
+        PU L#107 (P#107)
+      L2 L#54 (1280KB) + L1d L#54 (48KB) + L1i L#54 (32KB) + Core L#54
+        PU L#108 (P#45)
+        PU L#109 (P#109)
+      L2 L#55 (1280KB) + L1d L#55 (48KB) + L1i L#55 (32KB) + Core L#55
+        PU L#110 (P#47)
+        PU L#111 (P#111)
+      L2 L#56 (1280KB) + L1d L#56 (48KB) + L1i L#56 (32KB) + Core L#56
+        PU L#112 (P#49)
+        PU L#113 (P#113)
+      L2 L#57 (1280KB) + L1d L#57 (48KB) + L1i L#57 (32KB) + Core L#57
+        PU L#114 (P#51)
+        PU L#115 (P#115)
+      L2 L#58 (1280KB) + L1d L#58 (48KB) + L1i L#58 (32KB) + Core L#58
+        PU L#116 (P#53)
+        PU L#117 (P#117)
+      L2 L#59 (1280KB) + L1d L#59 (48KB) + L1i L#59 (32KB) + Core L#59
+        PU L#118 (P#55)
+        PU L#119 (P#119)
+      L2 L#60 (1280KB) + L1d L#60 (48KB) + L1i L#60 (32KB) + Core L#60
+        PU L#120 (P#57)
+        PU L#121 (P#121)
+      L2 L#61 (1280KB) + L1d L#61 (48KB) + L1i L#61 (32KB) + Core L#61
+        PU L#122 (P#59)
+        PU L#123 (P#123)
+      L2 L#62 (1280KB) + L1d L#62 (48KB) + L1i L#62 (32KB) + Core L#62
+        PU L#124 (P#61)
+        PU L#125 (P#125)
+      L2 L#63 (1280KB) + L1d L#63 (48KB) + L1i L#63 (32KB) + Core L#63
+        PU L#126 (P#63)
+        PU L#127 (P#127)
+    HostBridge
+      PCIBridge
+        PCI ca:00.0 (3D)

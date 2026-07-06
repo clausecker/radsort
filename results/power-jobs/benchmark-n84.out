@@ -1,0 +1,120 @@
+items: 17179869184
+threads: 84
+os: Linux
+arch: ppc64le
+
+BenchmarkParallelFull	1	8.3783777e+10 ns/op	1640.4006 MB/s
+items: 17179869184
+threads: 84
+os: Linux
+arch: ppc64le
+
+BenchmarkParallelFull	1	9.0914754e+10 ns/op	1511.7343 MB/s
+items: 17179869184
+threads: 84
+os: Linux
+arch: ppc64le
+
+BenchmarkParallelFull	1	8.7450532e+10 ns/op	1571.6194 MB/s
+items: 17179869184
+threads: 84
+os: Linux
+arch: ppc64le
+
+BenchmarkParallelFull	1	8.9633929e+10 ns/op	1533.3363 MB/s
+items: 17179869184
+threads: 84
+os: Linux
+arch: ppc64le
+
+BenchmarkParallelFull	1	8.9278803e+10 ns/op	1539.4354 MB/s
+items: 17179869184
+threads: 84
+os: Linux
+arch: ppc64le
+
+BenchmarkParallelFull	1	8.5262339e+10 ns/op	1611.9538 MB/s
+items: 17179869184
+threads: 84
+os: Linux
+arch: ppc64le
+
+BenchmarkParallelFull	1	8.6304256e+10 ns/op	1592.4933 MB/s
+items: 17179869184
+threads: 84
+os: Linux
+arch: ppc64le
+
+BenchmarkParallelFull	1	8.9069385e+10 ns/op	1543.0549 MB/s
+items: 17179869184
+threads: 84
+os: Linux
+arch: ppc64le
+
+BenchmarkParallelFull	1	9.1018712e+10 ns/op	1510.0077 MB/s
+items: 17179869184
+threads: 84
+os: Linux
+arch: ppc64le
+
+BenchmarkParallelFull	1	8.8161439e+10 ns/op	1558.9463 MB/s
+items: 17179869184
+threads: 84
+os: Linux
+arch: ppc64le
+
+BenchmarkParallelFull	1	8.8243807e+10 ns/op	1557.4912 MB/s
+items: 17179869184
+threads: 84
+os: Linux
+arch: ppc64le
+
+BenchmarkParallelFull	1	8.189493e+10 ns/op	1678.2352 MB/s
+items: 17179869184
+threads: 84
+os: Linux
+arch: ppc64le
+
+BenchmarkParallelFull	1	7.8488e+10 ns/op	1751.0824 MB/s
+items: 17179869184
+threads: 84
+os: Linux
+arch: ppc64le
+
+BenchmarkParallelFull	1	8.4220504e+10 ns/op	1631.8942 MB/s
+items: 17179869184
+threads: 84
+os: Linux
+arch: ppc64le
+
+BenchmarkParallelFull	1	8.5797997e+10 ns/op	1601.89 MB/s
+items: 17179869184
+threads: 84
+os: Linux
+arch: ppc64le
+
+BenchmarkParallelFull	1	8.5994354e+10 ns/op	1598.2323 MB/s
+items: 17179869184
+threads: 84
+os: Linux
+arch: ppc64le
+
+BenchmarkParallelFull	1	8.164627e+10 ns/op	1683.3464 MB/s
+items: 17179869184
+threads: 84
+os: Linux
+arch: ppc64le
+
+BenchmarkParallelFull	1	8.7573174e+10 ns/op	1569.4184 MB/s
+items: 17179869184
+threads: 84
+os: Linux
+arch: ppc64le
+
+BenchmarkParallelFull	1	7.4411192e+10 ns/op	1847.0199 MB/s
+items: 17179869184
+threads: 84
+os: Linux
+arch: ppc64le
+
+BenchmarkParallelFull	1	8.0208929e+10 ns/op	1713.5119 MB/s

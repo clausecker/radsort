@@ -1,0 +1,220 @@
+items: 12
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: AMD Ryzen 7 PRO 7840U w/ Radeon 780M Graphics  
+
+BenchmarkGenericFull	3437607	348.98217 ns/op	275.08569 MB/s
+BenchmarkSwcFull	1387987	846.21094 ns/op	113.44689 MB/s
+BenchmarkPermutedFull	47785	24775.066 ns/op	3.8748636 MB/s
+BenchmarkBitmanipFull	46837	24519.511 ns/op	3.9152493 MB/s
+BenchmarkParallelFull	3121	370924.67 ns/op	0.25881266 MB/s
+items: 12
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: AMD Ryzen 7 PRO 7840U w/ Radeon 780M Graphics  
+
+BenchmarkGenericFull	3373742	352.5199 ns/op	272.32505 MB/s
+BenchmarkSwcFull	1399556	854.174 ns/op	112.38928 MB/s
+BenchmarkPermutedFull	43950	27423.817 ns/op	3.5006068 MB/s
+BenchmarkBitmanipFull	44320	26854.892 ns/op	3.5747677 MB/s
+BenchmarkParallelFull	2904	399824.16 ns/op	0.24010555 MB/s
+items: 12
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: AMD Ryzen 7 PRO 7840U w/ Radeon 780M Graphics  
+
+BenchmarkGenericFull	3400857	353.95197 ns/op	271.22324 MB/s
+BenchmarkSwcFull	1377403	868.81617 ns/op	110.49518 MB/s
+BenchmarkPermutedFull	47125	26918.169 ns/op	3.5663645 MB/s
+BenchmarkBitmanipFull	44359	26250.302 ns/op	3.6571008 MB/s
+BenchmarkParallelFull	2954	398632.93 ns/op	0.24082305 MB/s
+items: 12
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: AMD Ryzen 7 PRO 7840U w/ Radeon 780M Graphics  
+
+BenchmarkGenericFull	3364620	356.58391 ns/op	269.22135 MB/s
+BenchmarkSwcFull	1335752	896.87079 ns/op	107.03883 MB/s
+BenchmarkPermutedFull	44271	27748.937 ns/op	3.459592 MB/s
+BenchmarkBitmanipFull	43522	27392.66 ns/op	3.5045885 MB/s
+BenchmarkParallelFull	2948	398310.37 ns/op	0.24101808 MB/s
+items: 12
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: AMD Ryzen 7 PRO 7840U w/ Radeon 780M Graphics  
+
+BenchmarkGenericFull	3259822	368.71675 ns/op	260.36246 MB/s
+BenchmarkSwcFull	1362912	874.86695 ns/op	109.73097 MB/s
+BenchmarkPermutedFull	45745	27337.929 ns/op	3.5116046 MB/s
+BenchmarkBitmanipFull	44280	26922.659 ns/op	3.5657697 MB/s
+BenchmarkParallelFull	2931	404880.54 ns/op	0.23710698 MB/s
+items: 12
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: AMD Ryzen 7 PRO 7840U w/ Radeon 780M Graphics  
+
+BenchmarkGenericFull	3380037	350.85353 ns/op	273.61845 MB/s
+BenchmarkSwcFull	1373911	872.73227 ns/op	109.99937 MB/s
+BenchmarkPermutedFull	47079	26971.556 ns/op	3.5593052 MB/s
+BenchmarkBitmanipFull	44880	26464.499 ns/op	3.6275011 MB/s
+BenchmarkParallelFull	2970	395514.45 ns/op	0.24272185 MB/s
+items: 12
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: AMD Ryzen 7 PRO 7840U w/ Radeon 780M Graphics  
+
+BenchmarkGenericFull	3383344	349.41676 ns/op	274.74355 MB/s
+BenchmarkSwcFull	1413463	845.47915 ns/op	113.54508 MB/s
+BenchmarkPermutedFull	43874	27105.65 ns/op	3.541697 MB/s
+BenchmarkBitmanipFull	44673	25778.946 ns/op	3.7239691 MB/s
+BenchmarkParallelFull	2952	397106.49 ns/op	0.24174876 MB/s
+items: 12
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: AMD Ryzen 7 PRO 7840U w/ Radeon 780M Graphics  
+
+BenchmarkGenericFull	3355822	355.85324 ns/op	269.77413 MB/s
+BenchmarkSwcFull	1313047	908.48039 ns/op	105.67097 MB/s
+BenchmarkPermutedFull	44008	27557.034 ns/op	3.4836841 MB/s
+BenchmarkBitmanipFull	44214	26565.178 ns/op	3.6137534 MB/s
+BenchmarkParallelFull	2895	407969.03 ns/op	0.23531198 MB/s
+items: 12
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: AMD Ryzen 7 PRO 7840U w/ Radeon 780M Graphics  
+
+BenchmarkGenericFull	3370088	356.13625 ns/op	269.55976 MB/s
+BenchmarkSwcFull	1359398	850.29718 ns/op	112.9017 MB/s
+BenchmarkPermutedFull	44139	27268.294 ns/op	3.5205722 MB/s
+BenchmarkBitmanipFull	44930	26403.849 ns/op	3.6358335 MB/s
+BenchmarkParallelFull	2762	405097.42 ns/op	0.23698003 MB/s
+items: 12
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: AMD Ryzen 7 PRO 7840U w/ Radeon 780M Graphics  
+
+BenchmarkGenericFull	3363138	357.15299 ns/op	268.79237 MB/s
+BenchmarkSwcFull	1361654	884.75498 ns/op	108.50462 MB/s
+BenchmarkPermutedFull	46093	27428.647 ns/op	3.4999903 MB/s
+BenchmarkBitmanipFull	44142	26806.034 ns/op	3.5812832 MB/s
+BenchmarkParallelFull	2844	403704.46 ns/op	0.23779772 MB/s
+items: 12
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: AMD Ryzen 7 PRO 7840U w/ Radeon 780M Graphics  
+
+BenchmarkGenericFull	3365426	380.4671 ns/op	252.32142 MB/s
+BenchmarkSwcFull	1271314	934.9773 ns/op	102.67629 MB/s
+BenchmarkPermutedFull	39922	30921.246 ns/op	3.1046614 MB/s
+BenchmarkBitmanipFull	39567	29950.445 ns/op	3.2052946 MB/s
+BenchmarkParallelFull	2800	437454.1 ns/op	0.2194516 MB/s
+items: 12
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: AMD Ryzen 7 PRO 7840U w/ Radeon 780M Graphics  
+
+BenchmarkGenericFull	3315019	366.74944 ns/op	261.75909 MB/s
+BenchmarkSwcFull	1365657	877.84989 ns/op	109.3581 MB/s
+BenchmarkPermutedFull	46314	27335.073 ns/op	3.5119715 MB/s
+BenchmarkBitmanipFull	44247	26391.106 ns/op	3.6375891 MB/s
+BenchmarkParallelFull	2958	394002.68 ns/op	0.24365316 MB/s
+items: 12
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: AMD Ryzen 7 PRO 7840U w/ Radeon 780M Graphics  
+
+BenchmarkGenericFull	3379388	355.2736 ns/op	270.21428 MB/s
+BenchmarkSwcFull	1363515	863.46363 ns/op	111.18013 MB/s
+BenchmarkPermutedFull	44527	26924.022 ns/op	3.5655891 MB/s
+BenchmarkBitmanipFull	44580	26327.393 ns/op	3.6463921 MB/s
+BenchmarkParallelFull	2908	401993.49 ns/op	0.23880984 MB/s
+items: 12
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: AMD Ryzen 7 PRO 7840U w/ Radeon 780M Graphics  
+
+BenchmarkGenericFull	3355801	358.35261 ns/op	267.89256 MB/s
+BenchmarkSwcFull	1359628	880.68148 ns/op	109.00649 MB/s
+BenchmarkPermutedFull	46118	26547.776 ns/op	3.6161222 MB/s
+BenchmarkBitmanipFull	45825	26272.523 ns/op	3.6540077 MB/s
+BenchmarkParallelFull	2968	396181.35 ns/op	0.24231327 MB/s
+items: 12
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: AMD Ryzen 7 PRO 7840U w/ Radeon 780M Graphics  
+
+BenchmarkGenericFull	3360788	357.98083 ns/op	268.17078 MB/s
+BenchmarkSwcFull	1355916	884.07807 ns/op	108.5877 MB/s
+BenchmarkPermutedFull	44984	27494.904 ns/op	3.4915561 MB/s
+BenchmarkBitmanipFull	43876	27507.394 ns/op	3.4899707 MB/s
+BenchmarkParallelFull	2863	397827.62 ns/op	0.24131054 MB/s
+items: 12
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: AMD Ryzen 7 PRO 7840U w/ Radeon 780M Graphics  
+
+BenchmarkGenericFull	3334366	357.40302 ns/op	268.60434 MB/s
+BenchmarkSwcFull	1388546	861.81521 ns/op	111.39279 MB/s
+BenchmarkPermutedFull	43569	27634.84 ns/op	3.4738758 MB/s
+BenchmarkBitmanipFull	41937	27437.702 ns/op	3.4988353 MB/s
+BenchmarkParallelFull	2848	413290.49 ns/op	0.23228214 MB/s
+items: 12
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: AMD Ryzen 7 PRO 7840U w/ Radeon 780M Graphics  
+
+BenchmarkGenericFull	3328695	359.52612 ns/op	267.01815 MB/s
+BenchmarkSwcFull	1358875	869.14146 ns/op	110.45383 MB/s
+BenchmarkPermutedFull	45501	26954.768 ns/op	3.561522 MB/s
+BenchmarkBitmanipFull	44548	26894.498 ns/op	3.5695033 MB/s
+BenchmarkParallelFull	2928	395956.34 ns/op	0.24245097 MB/s
+items: 12
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: AMD Ryzen 7 PRO 7840U w/ Radeon 780M Graphics  
+
+BenchmarkGenericFull	3385928	354.03821 ns/op	271.15718 MB/s
+BenchmarkSwcFull	1356643	883.4104 ns/op	108.66976 MB/s
+BenchmarkPermutedFull	44806	27787.104 ns/op	3.45484 MB/s
+BenchmarkBitmanipFull	43398	27357.796 ns/op	3.5090546 MB/s
+BenchmarkParallelFull	2943	397619.83 ns/op	0.24143665 MB/s
+items: 12
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: AMD Ryzen 7 PRO 7840U w/ Radeon 780M Graphics  
+
+BenchmarkGenericFull	3384476	354.3092 ns/op	270.94978 MB/s
+BenchmarkSwcFull	1370124	843.04678 ns/op	113.87268 MB/s
+BenchmarkPermutedFull	43772	26874.694 ns/op	3.5721338 MB/s
+BenchmarkBitmanipFull	44577	26857.107 ns/op	3.5744729 MB/s
+BenchmarkParallelFull	2949	398832.81 ns/op	0.24070236 MB/s
+items: 12
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: AMD Ryzen 7 PRO 7840U w/ Radeon 780M Graphics  
+
+BenchmarkGenericFull	3281138	365.97722 ns/op	262.31141 MB/s
+BenchmarkSwcFull	1345846	872.33757 ns/op	110.04914 MB/s
+BenchmarkPermutedFull	43020	26978.737 ns/op	3.5583578 MB/s
+BenchmarkBitmanipFull	44251	27345.276 ns/op	3.5106612 MB/s
+BenchmarkParallelFull	2943	398468.74 ns/op	0.24092229 MB/s

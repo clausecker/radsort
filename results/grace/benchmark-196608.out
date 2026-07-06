@@ -1,0 +1,200 @@
+items: 196608
+threads: 4
+os: Linux
+arch: aarch64
+
+BenchmarkGenericFull	1119	1055510.6 ns/op	1490.1452 MB/s
+BenchmarkSwcFull	926	1221407.2 ns/op	1287.7474 MB/s
+BenchmarkPermutedFull	1221	977360.12 ns/op	1609.2983 MB/s
+BenchmarkBitmanipFull	1154	1037064.2 ns/op	1516.6506 MB/s
+BenchmarkParallelFull	1815	651858.07 ns/op	2412.8933 MB/s
+items: 196608
+threads: 4
+os: Linux
+arch: aarch64
+
+BenchmarkGenericFull	1126	1053639.4 ns/op	1492.7916 MB/s
+BenchmarkSwcFull	916	1232026.1 ns/op	1276.6483 MB/s
+BenchmarkPermutedFull	1218	976147.09 ns/op	1611.2981 MB/s
+BenchmarkBitmanipFull	1154	1036916 ns/op	1516.8673 MB/s
+BenchmarkParallelFull	1812	650714.19 ns/op	2417.1349 MB/s
+items: 196608
+threads: 4
+os: Linux
+arch: aarch64
+
+BenchmarkGenericFull	1126	1054037.9 ns/op	1492.2272 MB/s
+BenchmarkSwcFull	934	1216134.9 ns/op	1293.3302 MB/s
+BenchmarkPermutedFull	1212	981309.58 ns/op	1602.8214 MB/s
+BenchmarkBitmanipFull	1150	1040182.3 ns/op	1512.1042 MB/s
+BenchmarkParallelFull	1792	656451.43 ns/op	2396.0097 MB/s
+items: 196608
+threads: 4
+os: Linux
+arch: aarch64
+
+BenchmarkGenericFull	1122	1056097.4 ns/op	1489.3172 MB/s
+BenchmarkSwcFull	934	1213568.8 ns/op	1296.065 MB/s
+BenchmarkPermutedFull	1216	977748.78 ns/op	1608.6586 MB/s
+BenchmarkBitmanipFull	1153	1036812.8 ns/op	1517.0183 MB/s
+BenchmarkParallelFull	1808	651847.84 ns/op	2412.9312 MB/s
+items: 196608
+threads: 4
+os: Linux
+arch: aarch64
+
+BenchmarkGenericFull	1122	1056497.1 ns/op	1488.7537 MB/s
+BenchmarkSwcFull	940	1209448.4 ns/op	1300.4804 MB/s
+BenchmarkPermutedFull	1207	981758.4 ns/op	1602.0887 MB/s
+BenchmarkBitmanipFull	1149	1041217.7 ns/op	1510.6005 MB/s
+BenchmarkParallelFull	1812	653614.04 ns/op	2406.411 MB/s
+items: 196608
+threads: 4
+os: Linux
+arch: aarch64
+
+BenchmarkGenericFull	1113	1057473.7 ns/op	1487.3788 MB/s
+BenchmarkSwcFull	928	1219861.6 ns/op	1289.379 MB/s
+BenchmarkPermutedFull	1218	976832.32 ns/op	1610.1679 MB/s
+BenchmarkBitmanipFull	1154	1037922.9 ns/op	1515.3958 MB/s
+BenchmarkParallelFull	1806	655152.87 ns/op	2400.7588 MB/s
+items: 196608
+threads: 4
+os: Linux
+arch: aarch64
+
+BenchmarkGenericFull	1112	1064221.9 ns/op	1477.9474 MB/s
+BenchmarkSwcFull	936	1213549.5 ns/op	1296.0856 MB/s
+BenchmarkPermutedFull	1218	978137.26 ns/op	1608.0197 MB/s
+BenchmarkBitmanipFull	1150	1039993.6 ns/op	1512.3785 MB/s
+BenchmarkParallelFull	1812	653158.75 ns/op	2408.0884 MB/s
+items: 196608
+threads: 4
+os: Linux
+arch: aarch64
+
+BenchmarkGenericFull	1122	1057493.9 ns/op	1487.3505 MB/s
+BenchmarkSwcFull	928	1222395.6 ns/op	1286.7062 MB/s
+BenchmarkPermutedFull	1227	974435.68 ns/op	1614.1281 MB/s
+BenchmarkBitmanipFull	1156	1035738.6 ns/op	1518.5917 MB/s
+BenchmarkParallelFull	1815	654666.63 ns/op	2402.5419 MB/s
+items: 196608
+threads: 4
+os: Linux
+arch: aarch64
+
+BenchmarkGenericFull	1119	1055228 ns/op	1490.5443 MB/s
+BenchmarkSwcFull	930	1223740.6 ns/op	1285.292 MB/s
+BenchmarkPermutedFull	1215	979329.91 ns/op	1606.0614 MB/s
+BenchmarkBitmanipFull	1153	1038683.7 ns/op	1514.2858 MB/s
+BenchmarkParallelFull	1808	658832.42 ns/op	2387.3506 MB/s
+items: 196608
+threads: 4
+os: Linux
+arch: aarch64
+
+BenchmarkGenericFull	1118	1058013.3 ns/op	1486.6203 MB/s
+BenchmarkSwcFull	937	1213966.7 ns/op	1295.6401 MB/s
+BenchmarkPermutedFull	1218	977998.57 ns/op	1608.2477 MB/s
+BenchmarkBitmanipFull	1150	1041415.9 ns/op	1510.313 MB/s
+BenchmarkParallelFull	1809	653271.18 ns/op	2407.6739 MB/s
+items: 196608
+threads: 4
+os: Linux
+arch: aarch64
+
+BenchmarkGenericFull	1126	1054641 ns/op	1491.3738 MB/s
+BenchmarkSwcFull	931	1216134.4 ns/op	1293.3308 MB/s
+BenchmarkPermutedFull	1220	975359.75 ns/op	1612.5988 MB/s
+BenchmarkBitmanipFull	1158	1035908.9 ns/op	1518.342 MB/s
+BenchmarkParallelFull	1824	648891.26 ns/op	2423.9254 MB/s
+items: 196608
+threads: 4
+os: Linux
+arch: aarch64
+
+BenchmarkGenericFull	1123	1055463.3 ns/op	1490.2119 MB/s
+BenchmarkSwcFull	930	1213952.3 ns/op	1295.6555 MB/s
+BenchmarkPermutedFull	1219	976828.94 ns/op	1610.1734 MB/s
+BenchmarkBitmanipFull	1154	1037018.7 ns/op	1516.7171 MB/s
+BenchmarkParallelFull	1827	651827.17 ns/op	2413.0077 MB/s
+items: 196608
+threads: 4
+os: Linux
+arch: aarch64
+
+BenchmarkGenericFull	1119	1054709.3 ns/op	1491.2773 MB/s
+BenchmarkSwcFull	928	1213237.6 ns/op	1296.4188 MB/s
+BenchmarkPermutedFull	1221	977439.21 ns/op	1609.1681 MB/s
+BenchmarkBitmanipFull	1155	1036048.9 ns/op	1518.1368 MB/s
+BenchmarkParallelFull	1825	646725.05 ns/op	2432.0443 MB/s
+items: 196608
+threads: 4
+os: Linux
+arch: aarch64
+
+BenchmarkGenericFull	1125	1053616 ns/op	1492.8247 MB/s
+BenchmarkSwcFull	931	1210317.5 ns/op	1299.5466 MB/s
+BenchmarkPermutedFull	1210	981000.91 ns/op	1603.3257 MB/s
+BenchmarkBitmanipFull	1152	1038920.7 ns/op	1513.9404 MB/s
+BenchmarkParallelFull	1798	656218.76 ns/op	2396.8592 MB/s
+items: 196608
+threads: 4
+os: Linux
+arch: aarch64
+
+BenchmarkGenericFull	1110	1060251.9 ns/op	1483.4815 MB/s
+BenchmarkSwcFull	928	1215099.2 ns/op	1294.4326 MB/s
+BenchmarkPermutedFull	1216	978097.34 ns/op	1608.0853 MB/s
+BenchmarkBitmanipFull	1155	1036591.4 ns/op	1517.3423 MB/s
+BenchmarkParallelFull	1821	654444.77 ns/op	2403.3563 MB/s
+items: 196608
+threads: 4
+os: Linux
+arch: aarch64
+
+BenchmarkGenericFull	1113	1057705.4 ns/op	1487.0529 MB/s
+BenchmarkSwcFull	924	1219047.8 ns/op	1290.2398 MB/s
+BenchmarkPermutedFull	1230	972952.31 ns/op	1616.589 MB/s
+BenchmarkBitmanipFull	1152	1039448.4 ns/op	1513.1718 MB/s
+BenchmarkParallelFull	1826	653290.02 ns/op	2407.6045 MB/s
+items: 196608
+threads: 4
+os: Linux
+arch: aarch64
+
+BenchmarkGenericFull	1105	1059702.6 ns/op	1484.2504 MB/s
+BenchmarkSwcFull	932	1210217 ns/op	1299.6545 MB/s
+BenchmarkPermutedFull	1219	976976.45 ns/op	1609.9303 MB/s
+BenchmarkBitmanipFull	1155	1037024.8 ns/op	1516.7082 MB/s
+BenchmarkParallelFull	1797	657007.78 ns/op	2393.9808 MB/s
+items: 196608
+threads: 4
+os: Linux
+arch: aarch64
+
+BenchmarkGenericFull	1106	1066448.8 ns/op	1474.8613 MB/s
+BenchmarkSwcFull	938	1211561.2 ns/op	1298.2126 MB/s
+BenchmarkPermutedFull	1202	987495.92 ns/op	1592.7802 MB/s
+BenchmarkBitmanipFull	1147	1043763.2 ns/op	1506.9165 MB/s
+BenchmarkParallelFull	1806	656797.03 ns/op	2394.749 MB/s
+items: 196608
+threads: 4
+os: Linux
+arch: aarch64
+
+BenchmarkGenericFull	1118	1059629.1 ns/op	1484.3534 MB/s
+BenchmarkSwcFull	930	1222648.2 ns/op	1286.4404 MB/s
+BenchmarkPermutedFull	1206	981717.4 ns/op	1602.1556 MB/s
+BenchmarkBitmanipFull	1153	1038252.7 ns/op	1514.9145 MB/s
+BenchmarkParallelFull	1796	657586.29 ns/op	2391.8747 MB/s
+items: 196608
+threads: 4
+os: Linux
+arch: aarch64
+
+BenchmarkGenericFull	1111	1058189.9 ns/op	1486.3722 MB/s
+BenchmarkSwcFull	939	1208502 ns/op	1301.4988 MB/s
+BenchmarkPermutedFull	1214	979041.14 ns/op	1606.5351 MB/s
+BenchmarkBitmanipFull	1150	1040835.6 ns/op	1511.1551 MB/s
+BenchmarkParallelFull	1828	651812.01 ns/op	2413.0638 MB/s

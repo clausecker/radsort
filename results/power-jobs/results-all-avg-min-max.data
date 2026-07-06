@@ -1,0 +1,70 @@
+# column 01: key
+# column 02: threads
+# column 03: 'speed:'
+# column 04: arithmetical average speed
+# column 05: minimum speed
+# column 06: maximum speed
+# column 07: 'MB/s' the unit of speed
+# column 08: repetitions, how many data points where used for statistics
+# column 09: 'arch:'
+# column 10: processor architecture
+# column 11: 'os:'
+# column 12: operating system
+# column 13: 'items:'
+# column 14: number of items sorted
+BenchmarkParallelFull-1 1 speed: 367.181 332.99704 398.03137 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-2 2 speed: 644.463 606.4062 664.57479 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-3 3 speed: 788.943 740.72835 857.51364 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-4 4 speed: 917.379 881.10208 957.70806 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-5 5 speed: 1043.82 992.62689 1104.3122 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-6 6 speed: 1151.72 1104.0621 1201.4202 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-7 7 speed: 1255.06 1190.8596 1337.3583 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-8 8 speed: 1336.48 1221.7531 1422.4022 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-9 9 speed: 1423.95 1294.8139 1478.9266 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-10 10 speed: 1461.69 1353.8118 1555.8969 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-11 11 speed: 1504.6 1373.1017 1596.3687 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-12 12 speed: 1531.32 1402.5372 1657.5504 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-13 13 speed: 1569.33 1483.9147 1675.5261 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-14 14 speed: 1588.07 1460.4266 1718.7267 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-15 15 speed: 1578.13 1471.8476 1738.9177 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-16 16 speed: 1610.91 1463.336 1745.6538 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-18 18 speed: 1642.14 1493.6371 1777.4074 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-20 20 speed: 1652.04 1532.0952 1817.406 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-22 22 speed: 1674.32 1548.9183 1825.2034 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-24 24 speed: 1686.29 1561.6555 1860.6033 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-26 26 speed: 1675.79 1562.6593 1871.0844 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-28 28 speed: 1671.6 1541.6068 1859.2906 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-30 30 speed: 1660.05 1517.1727 1815.024 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-32 32 speed: 1675.33 1550.6103 1858.2327 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-34 34 speed: 1663.84 1539.3598 1838.3036 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-36 36 speed: 1638.55 1534.0188 1829.9758 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-38 38 speed: 1645.48 1543.0395 1855.2579 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-40 40 speed: 1689.3 1559.6075 1884.4791 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-42 42 speed: 1641.89 1555.9674 1807.2209 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-44 44 speed: 1661.57 1541.2255 1868.1092 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-46 46 speed: 1679.9 1545.8446 1911.7044 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-48 48 speed: 1693.91 1565.9986 1831.381 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-50 50 speed: 1642.4 1524.4079 1865.7912 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-52 52 speed: 1658.71 1538.2254 1853.1072 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-54 54 speed: 1660.47 1547.7496 1807.7227 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-56 56 speed: 1650.56 1540.1709 1828.6614 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-58 58 speed: 1653.64 1541.7665 1826.6547 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-60 60 speed: 1641.36 1546.741 1817.3296 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-62 62 speed: 1590.42 1529.6915 1830.3543 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-64 64 speed: 1647.01 1535.7686 1869.0887 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-68 68 speed: 1647.9 1524.7851 1855.802 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-72 72 speed: 1628.11 1537.6483 1849.813 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-76 76 speed: 1649.44 1541.1707 1843.7089 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-80 80 speed: 1626.69 1534.9286 1819.9391 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-84 84 speed: 1612.26 1510.0077 1847.0199 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-88 88 speed: 1601.52 1488.9445 1789.3151 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-92 92 speed: 1602.38 1506.3769 1834.3493 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-96 96 speed: 1591.84 1491.3893 1749.9505 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-100 100 speed: 1571.47 1518.4759 1651.6246 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-104 104 speed: 1582.17 1499.9067 1721.0574 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-108 108 speed: 1604.49 1533.7487 1781.4422 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-112 112 speed: 1561.72 1496.9104 1652.721 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-116 116 speed: 1605.35 1506.434 1752.3967 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-120 120 speed: 1575.4 1493.3094 1784.8875 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-124 124 speed: 1590.35 1496.1454 1758.6833 MB/s 20 arch: ppc64le os: Linux items: 17179869184
+BenchmarkParallelFull-128 128 speed: 1573.26 1512.3724 1719.4788 MB/s 20 arch: ppc64le os: Linux items: 17179869184

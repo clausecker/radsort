@@ -1,0 +1,220 @@
+items: 768
+threads: 4
+os: FreeBSD
+arch: arm64
+cpu: ARM Cortex-A78C r0p0
+
+BenchmarkGenericFull	100939	11894.295 ns/op	516.55017 MB/s
+BenchmarkSwcFull	38941	30757.339 ns/op	199.7572 MB/s
+BenchmarkPermutedFull	6729	175420.97 ns/op	35.024318 MB/s
+BenchmarkBitmanipFull	7387	162947.45 ns/op	37.705407 MB/s
+BenchmarkParallelFull	544	2200213.2 ns/op	2.7924566 MB/s
+items: 768
+threads: 4
+os: FreeBSD
+arch: arm64
+cpu: ARM Cortex-A78C r0p0
+
+BenchmarkGenericFull	99890	11937.185 ns/op	514.69419 MB/s
+BenchmarkSwcFull	41965	28624.694 ns/op	214.63985 MB/s
+BenchmarkPermutedFull	6814	174428.39 ns/op	35.223623 MB/s
+BenchmarkBitmanipFull	7473	161370.71 ns/op	38.073823 MB/s
+BenchmarkParallelFull	543	2199087.5 ns/op	2.7938861 MB/s
+items: 768
+threads: 4
+os: FreeBSD
+arch: arm64
+cpu: ARM Cortex-A78C r0p0
+
+BenchmarkGenericFull	100425	11946.768 ns/op	514.28133 MB/s
+BenchmarkSwcFull	42674	28214.428 ns/op	217.76093 MB/s
+BenchmarkPermutedFull	6822	173986.84 ns/op	35.313015 MB/s
+BenchmarkBitmanipFull	7665	159480.95 ns/op	38.524977 MB/s
+BenchmarkParallelFull	548	2185391.1 ns/op	2.8113961 MB/s
+items: 768
+threads: 4
+os: FreeBSD
+arch: arm64
+cpu: ARM Cortex-A78C r0p0
+
+BenchmarkGenericFull	99969	12029.259 ns/op	510.75465 MB/s
+BenchmarkSwcFull	35278	34082.095 ns/op	180.27061 MB/s
+BenchmarkPermutedFull	6684	175670.22 ns/op	34.974625 MB/s
+BenchmarkBitmanipFull	6882	160978.23 ns/op	38.166653 MB/s
+BenchmarkParallelFull	547	2176095.9 ns/op	2.823405 MB/s
+items: 768
+threads: 4
+os: FreeBSD
+arch: arm64
+cpu: ARM Cortex-A78C r0p0
+
+BenchmarkGenericFull	99811	12019.063 ns/op	511.18794 MB/s
+BenchmarkSwcFull	39501	30461.551 ns/op	201.69689 MB/s
+BenchmarkPermutedFull	6746	175030.54 ns/op	35.102446 MB/s
+BenchmarkBitmanipFull	7501	161215.57 ns/op	38.110463 MB/s
+BenchmarkParallelFull	546	2182572 ns/op	2.8150274 MB/s
+items: 768
+threads: 4
+os: FreeBSD
+arch: arm64
+cpu: ARM Cortex-A78C r0p0
+
+BenchmarkGenericFull	100446	11944.743 ns/op	514.36852 MB/s
+BenchmarkSwcFull	38269	31165.088 ns/op	197.14367 MB/s
+BenchmarkPermutedFull	6796	174343.8 ns/op	35.240713 MB/s
+BenchmarkBitmanipFull	7604	159671.26 ns/op	38.47906 MB/s
+BenchmarkParallelFull	534	2181524.8 ns/op	2.8163787 MB/s
+items: 768
+threads: 4
+os: FreeBSD
+arch: arm64
+cpu: ARM Cortex-A78C r0p0
+
+BenchmarkGenericFull	99800	12066.277 ns/op	509.1877 MB/s
+BenchmarkSwcFull	39268	30486.51 ns/op	201.53176 MB/s
+BenchmarkPermutedFull	6703	176452.16 ns/op	34.819637 MB/s
+BenchmarkBitmanipFull	7334	168716.09 ns/op	36.416206 MB/s
+BenchmarkParallelFull	541	2187991.5 ns/op	2.8080548 MB/s
+items: 768
+threads: 4
+os: FreeBSD
+arch: arm64
+cpu: ARM Cortex-A78C r0p0
+
+BenchmarkGenericFull	100554	11936.28 ns/op	514.73321 MB/s
+BenchmarkSwcFull	40858	29372.274 ns/op	209.17686 MB/s
+BenchmarkPermutedFull	6746	175405.74 ns/op	35.027361 MB/s
+BenchmarkBitmanipFull	7506	162022.28 ns/op	37.92071 MB/s
+BenchmarkParallelFull	535	2185574.6 ns/op	2.8111601 MB/s
+items: 768
+threads: 4
+os: FreeBSD
+arch: arm64
+cpu: ARM Cortex-A78C r0p0
+
+BenchmarkGenericFull	100130	11976.872 ns/op	512.98872 MB/s
+BenchmarkSwcFull	39116	30673.058 ns/op	200.30608 MB/s
+BenchmarkPermutedFull	6787	174480.98 ns/op	35.213008 MB/s
+BenchmarkBitmanipFull	7376	163150.03 ns/op	37.65859 MB/s
+BenchmarkParallelFull	552	2172285.2 ns/op	2.8283579 MB/s
+items: 768
+threads: 4
+os: FreeBSD
+arch: arm64
+cpu: ARM Cortex-A78C r0p0
+
+BenchmarkGenericFull	100099	12007.929 ns/op	511.66193 MB/s
+BenchmarkSwcFull	38589	30860.112 ns/op	199.09196 MB/s
+BenchmarkPermutedFull	6016	176729.69 ns/op	34.764957 MB/s
+BenchmarkBitmanipFull	7399	162560.99 ns/op	37.795044 MB/s
+BenchmarkParallelFull	547	2201665.3 ns/op	2.7906149 MB/s
+items: 768
+threads: 4
+os: FreeBSD
+arch: arm64
+cpu: ARM Cortex-A78C r0p0
+
+BenchmarkGenericFull	100083	11909.483 ns/op	515.89142 MB/s
+BenchmarkSwcFull	41264	29218.266 ns/op	210.27942 MB/s
+BenchmarkPermutedFull	6736	174474.66 ns/op	35.214283 MB/s
+BenchmarkBitmanipFull	7575	160250.08 ns/op	38.340075 MB/s
+BenchmarkParallelFull	549	2187656.6 ns/op	2.8084847 MB/s
+items: 768
+threads: 4
+os: FreeBSD
+arch: arm64
+cpu: ARM Cortex-A78C r0p0
+
+BenchmarkGenericFull	100414	11953.576 ns/op	513.98844 MB/s
+BenchmarkSwcFull	39730	30347.753 ns/op	202.45321 MB/s
+BenchmarkPermutedFull	6795	173566.04 ns/op	35.398631 MB/s
+BenchmarkBitmanipFull	7341	161876.94 ns/op	37.954758 MB/s
+BenchmarkParallelFull	547	2185871.6 ns/op	2.8107781 MB/s
+items: 768
+threads: 4
+os: FreeBSD
+arch: arm64
+cpu: ARM Cortex-A78C r0p0
+
+BenchmarkGenericFull	100978	11869.977 ns/op	517.60842 MB/s
+BenchmarkSwcFull	39711	30137.786 ns/op	203.86368 MB/s
+BenchmarkPermutedFull	6729	176699.5 ns/op	34.770897 MB/s
+BenchmarkBitmanipFull	7395	163118.63 ns/op	37.665838 MB/s
+BenchmarkParallelFull	552	2172745.9 ns/op	2.8277582 MB/s
+items: 768
+threads: 4
+os: FreeBSD
+arch: arm64
+cpu: ARM Cortex-A78C r0p0
+
+BenchmarkGenericFull	100176	11960.253 ns/op	513.70151 MB/s
+BenchmarkSwcFull	40270	29701.396 ns/op	206.85896 MB/s
+BenchmarkPermutedFull	6672	175269.99 ns/op	35.054489 MB/s
+BenchmarkBitmanipFull	7537	163084.75 ns/op	37.673664 MB/s
+BenchmarkParallelFull	546	2197456.4 ns/op	2.79596 MB/s
+items: 768
+threads: 4
+os: FreeBSD
+arch: arm64
+cpu: ARM Cortex-A78C r0p0
+
+BenchmarkGenericFull	99668	11937.255 ns/op	514.69118 MB/s
+BenchmarkSwcFull	40006	29907.83 ns/op	205.43115 MB/s
+BenchmarkPermutedFull	6717	176057.82 ns/op	34.897626 MB/s
+BenchmarkBitmanipFull	7383	162426.28 ns/op	37.82639 MB/s
+BenchmarkParallelFull	546	2195361.4 ns/op	2.798628 MB/s
+items: 768
+threads: 4
+os: FreeBSD
+arch: arm64
+cpu: ARM Cortex-A78C r0p0
+
+BenchmarkGenericFull	100329	11976.918 ns/op	512.98674 MB/s
+BenchmarkSwcFull	37306	32155.314 ns/op	191.07262 MB/s
+BenchmarkPermutedFull	6696	176145.55 ns/op	34.880244 MB/s
+BenchmarkBitmanipFull	7470	173038.93 ns/op	35.506461 MB/s
+BenchmarkParallelFull	549	2180372.2 ns/op	2.8178676 MB/s
+items: 768
+threads: 4
+os: FreeBSD
+arch: arm64
+cpu: ARM Cortex-A78C r0p0
+
+BenchmarkGenericFull	100182	11961.412 ns/op	513.65172 MB/s
+BenchmarkSwcFull	39504	30293.418 ns/op	202.81633 MB/s
+BenchmarkPermutedFull	6739	174291.46 ns/op	35.251297 MB/s
+BenchmarkBitmanipFull	7449	162453.23 ns/op	37.820115 MB/s
+BenchmarkParallelFull	548	2177650 ns/op	2.8213901 MB/s
+items: 768
+threads: 4
+os: FreeBSD
+arch: arm64
+cpu: ARM Cortex-A78C r0p0
+
+BenchmarkGenericFull	100722	11916.488 ns/op	515.58817 MB/s
+BenchmarkSwcFull	40824	29336.642 ns/op	209.43093 MB/s
+BenchmarkPermutedFull	6880	173134.6 ns/op	35.486841 MB/s
+BenchmarkBitmanipFull	7658	161099.85 ns/op	38.137839 MB/s
+BenchmarkParallelFull	546	2182896.7 ns/op	2.8146087 MB/s
+items: 768
+threads: 4
+os: FreeBSD
+arch: arm64
+cpu: ARM Cortex-A78C r0p0
+
+BenchmarkGenericFull	100569	11928.091 ns/op	515.08663 MB/s
+BenchmarkSwcFull	37987	31590.961 ns/op	194.48601 MB/s
+BenchmarkPermutedFull	6363	174823.91 ns/op	35.143935 MB/s
+BenchmarkBitmanipFull	7412	163109.95 ns/op	37.667843 MB/s
+BenchmarkParallelFull	549	2167159 ns/op	2.8350481 MB/s
+items: 768
+threads: 4
+os: FreeBSD
+arch: arm64
+cpu: ARM Cortex-A78C r0p0
+
+BenchmarkGenericFull	100183	11971.481 ns/op	513.21972 MB/s
+BenchmarkSwcFull	40162	29517.961 ns/op	208.14446 MB/s
+BenchmarkPermutedFull	6777	175808.49 ns/op	34.947117 MB/s
+BenchmarkBitmanipFull	7393	163546.42 ns/op	37.567316 MB/s
+BenchmarkParallelFull	550	2181462.3 ns/op	2.8164595 MB/s

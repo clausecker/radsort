@@ -1,0 +1,21 @@
+items: 16777216
+threads: 4
+os: Linux
+arch: ppc64le
+,benchmark-16777216.out
+,sec/op,CI
+GenericFull,0.22910290500000002,1%
+SwcFull,0.31099804000000003,1%
+PermutedFull,0.21986235,0%
+BitmanipFull,0.241231565,0%
+ParallelFull,0.0927347535,1%
+geomean,0.20366816661827683
+
+,benchmark-16777216.out
+,B/s,CI
+GenericFull,5.8584049e+08,1%
+SwcFull,4.31571985e+08,1%
+PermutedFull,6.1046286e+08,0%
+BitmanipFull,5.5638544e+08,0%
+ParallelFull,1.44733015e+09,1%
+geomean,6.590024792162907e+08

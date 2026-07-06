@@ -1,0 +1,22 @@
+0000:00:00.0 PCI bridge: NVIDIA Corporation Device 22b2
+0000:01:00.0 Non-Volatile memory controller: Solidigm NVMe DC SSD [Sentinel Rock Plus controller]
+0001:00:00.0 PCI bridge: NVIDIA Corporation Device 22b8
+0002:00:00.0 PCI bridge: NVIDIA Corporation Device 22b2
+0004:00:00.0 PCI bridge: NVIDIA Corporation Device 22b2
+0006:00:00.0 PCI bridge: NVIDIA Corporation Device 22b2
+0006:01:00.0 Ethernet controller: Mellanox Technologies MT2894 Family [ConnectX-6 Lx]
+0006:01:00.1 Ethernet controller: Mellanox Technologies MT2894 Family [ConnectX-6 Lx]
+0008:00:00.0 PCI bridge: NVIDIA Corporation Device 22b9
+0008:01:00.0 PCI bridge: ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge (rev 06)
+0008:02:00.0 VGA compatible controller: ASPEED Technology, Inc. ASPEED Graphics Family (rev 52)
+0010:00:00.0 PCI bridge: NVIDIA Corporation Device 22b2
+0011:00:00.0 PCI bridge: NVIDIA Corporation Device 22b8
+0012:00:00.0 PCI bridge: NVIDIA Corporation Device 22b2
+0014:00:00.0 PCI bridge: NVIDIA Corporation Device 22b2
+0015:00:00.0 PCI bridge: NVIDIA Corporation Device 22b8
+0016:00:00.0 PCI bridge: NVIDIA Corporation Device 22b2
+0016:01:00.0 Infiniband controller: Mellanox Technologies MT43244 BlueField-3 integrated ConnectX-7 network controller (rev 01)
+0016:01:00.1 Infiniband controller: Mellanox Technologies MT43244 BlueField-3 integrated ConnectX-7 network controller (rev 01)
+0016:01:00.2 DMA controller: Mellanox Technologies MT43244 BlueField-3 SoC Management Interface (rev 01)
+0018:00:00.0 PCI bridge: NVIDIA Corporation Device 22b9
+0018:01:00.0 USB controller: Renesas Electronics Corp. uPD720201 USB 3.0 Host Controller (rev 03)

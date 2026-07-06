@@ -1,0 +1,22 @@
+items: 16
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: AMD Ryzen 7 PRO 7840U w/ Radeon 780M Graphics  
+,benchmark-16.out,
+,sec/op,CI
+GenericFull,3.7291163e-07,1%
+SwcFull,9.193196300000001e-07,1%
+PermutedFull,2.7095925e-05,2%
+BitmanipFull,2.6631520000000002e-05,1%
+ParallelFull,0.00040086547500000003,1%
+geomean,9.983302030762863e-06,
+
+,benchmark-16.out,
+,B/s,CI
+GenericFull,3.4324489e+08,1%
+SwcFull,1.3923412e+08,1%
+PermutedFull,4.724009300000001e+06,2%
+BitmanipFull,4.806335199999999e+06,1%
+ParallelFull,319309.20000000007,1%
+geomean,1.2821451598886365e+07,

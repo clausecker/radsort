@@ -1,0 +1,1223 @@
+grace1
+    description: Computer
+    width: 64 bits
+    capabilities: smp sve_default_vector_length tagged_addr_disabled
+  *-core
+       description: Motherboard
+       physical id: 0
+     *-memory
+          description: System memory
+          physical id: 1
+          size: 479GiB
+     *-cpu:0
+          physical id: 2
+          bus info: cpu@0
+          size: 2727MHz
+          capacity: 3402MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:1
+          physical id: 3
+          bus info: cpu@1
+          size: 3186MHz
+          capacity: 3393MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:2
+          physical id: 4
+          bus info: cpu@2
+          size: 3195MHz
+          capacity: 3366MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:3
+          physical id: 5
+          bus info: cpu@3
+          size: 2619MHz
+          capacity: 3366MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:4
+          physical id: 6
+          bus info: cpu@4
+          size: 3141MHz
+          capacity: 3366MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:5
+          physical id: 7
+          bus info: cpu@5
+          size: 3168MHz
+          capacity: 3366MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:6
+          physical id: 8
+          bus info: cpu@6
+          size: 3276MHz
+          capacity: 3393MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:7
+          physical id: 9
+          bus info: cpu@7
+          size: 3303MHz
+          capacity: 3393MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:8
+          physical id: a
+          bus info: cpu@8
+          size: 3087MHz
+          capacity: 3384MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:9
+          physical id: b
+          bus info: cpu@9
+          size: 3177MHz
+          capacity: 3375MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:10
+          physical id: c
+          bus info: cpu@10
+          size: 3267MHz
+          capacity: 3384MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:11
+          physical id: d
+          bus info: cpu@11
+          size: 3150MHz
+          capacity: 3357MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:12
+          physical id: e
+          bus info: cpu@12
+          size: 3303MHz
+          capacity: 3366MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:13
+          physical id: f
+          bus info: cpu@13
+          size: 2871MHz
+          capacity: 3366MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:14
+          physical id: 10
+          bus info: cpu@14
+          size: 2655MHz
+          capacity: 3375MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:15
+          physical id: 11
+          bus info: cpu@15
+          size: 3096MHz
+          capacity: 3384MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:16
+          physical id: 12
+          bus info: cpu@16
+          size: 3222MHz
+          capacity: 3366MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:17
+          physical id: 13
+          bus info: cpu@17
+          size: 3321MHz
+          capacity: 3384MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:18
+          physical id: 14
+          bus info: cpu@18
+          size: 3294MHz
+          capacity: 3366MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:19
+          physical id: 15
+          bus info: cpu@19
+          size: 3528MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:20
+          physical id: 16
+          bus info: cpu@20
+          size: 2691MHz
+          capacity: 3366MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:21
+          physical id: 17
+          bus info: cpu@21
+          size: 3069MHz
+          capacity: 3384MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:22
+          physical id: 18
+          bus info: cpu@22
+          size: 3366MHz
+          capacity: 3366MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:23
+          physical id: 19
+          bus info: cpu@23
+          size: 2979MHz
+          capacity: 3357MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:24
+          physical id: 1a
+          bus info: cpu@24
+          size: 2619MHz
+          capacity: 3366MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:25
+          physical id: 1b
+          bus info: cpu@25
+          size: 3087MHz
+          capacity: 3357MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:26
+          physical id: 1c
+          bus info: cpu@26
+          size: 4068MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:27
+          physical id: 1d
+          bus info: cpu@27
+          size: 3213MHz
+          capacity: 3384MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:28
+          physical id: 1e
+          bus info: cpu@28
+          size: 3195MHz
+          capacity: 3375MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:29
+          physical id: 1f
+          bus info: cpu@29
+          size: 3114MHz
+          capacity: 3375MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:30
+          physical id: 20
+          bus info: cpu@30
+          size: 3132MHz
+          capacity: 3357MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:31
+          physical id: 21
+          bus info: cpu@31
+          size: 2943MHz
+          capacity: 3357MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:32
+          physical id: 22
+          bus info: cpu@32
+          size: 3240MHz
+          capacity: 3366MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:33
+          physical id: 23
+          bus info: cpu@33
+          size: 4005MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:34
+          physical id: 24
+          bus info: cpu@34
+          size: 2727MHz
+          capacity: 3366MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:35
+          physical id: 25
+          bus info: cpu@35
+          size: 3213MHz
+          capacity: 3357MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:36
+          physical id: 26
+          bus info: cpu@36
+          size: 3006MHz
+          capacity: 3366MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:37
+          physical id: 27
+          bus info: cpu@37
+          size: 3861MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:38
+          physical id: 28
+          bus info: cpu@38
+          size: 2718MHz
+          capacity: 3357MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:39
+          physical id: 29
+          bus info: cpu@39
+          size: 3006MHz
+          capacity: 3366MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:40
+          physical id: 2a
+          bus info: cpu@40
+          size: 3231MHz
+          capacity: 3366MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:41
+          physical id: 2b
+          bus info: cpu@41
+          size: 2727MHz
+          capacity: 3339MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:42
+          physical id: 2c
+          bus info: cpu@42
+          size: 3114MHz
+          capacity: 3348MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:43
+          physical id: 2d
+          bus info: cpu@43
+          size: 2745MHz
+          capacity: 3348MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:44
+          physical id: 2e
+          bus info: cpu@44
+          size: 3078MHz
+          capacity: 3375MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:45
+          physical id: 2f
+          bus info: cpu@45
+          size: 3834MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:46
+          physical id: 30
+          bus info: cpu@46
+          size: 3222MHz
+          capacity: 3366MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:47
+          physical id: 31
+          bus info: cpu@47
+          size: 3150MHz
+          capacity: 3375MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:48
+          physical id: 32
+          bus info: cpu@48
+          size: 3168MHz
+          capacity: 3366MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:49
+          physical id: 33
+          bus info: cpu@49
+          size: 2970MHz
+          capacity: 3321MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:50
+          physical id: 34
+          bus info: cpu@50
+          size: 2763MHz
+          capacity: 3321MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:51
+          physical id: 35
+          bus info: cpu@51
+          size: 3177MHz
+          capacity: 3348MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:52
+          physical id: 36
+          bus info: cpu@52
+          size: 3015MHz
+          capacity: 3348MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:53
+          physical id: 37
+          bus info: cpu@53
+          size: 3222MHz
+          capacity: 3375MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:54
+          physical id: 38
+          bus info: cpu@54
+          size: 2655MHz
+          capacity: 3330MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:55
+          physical id: 39
+          bus info: cpu@55
+          size: 3096MHz
+          capacity: 3366MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:56
+          physical id: 3a
+          bus info: cpu@56
+          size: 3051MHz
+          capacity: 3330MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:57
+          physical id: 3b
+          bus info: cpu@57
+          size: 2727MHz
+          capacity: 3357MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:58
+          physical id: 3c
+          bus info: cpu@58
+          size: 3150MHz
+          capacity: 3366MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:59
+          physical id: 3d
+          bus info: cpu@59
+          size: 2916MHz
+          capacity: 3348MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:60
+          physical id: 3e
+          bus info: cpu@60
+          size: 3483MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:61
+          physical id: 3f
+          bus info: cpu@61
+          size: 3132MHz
+          capacity: 3303MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:62
+          physical id: 40
+          bus info: cpu@62
+          size: 3033MHz
+          capacity: 3303MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:63
+          physical id: 41
+          bus info: cpu@63
+          size: 3609MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:64
+          physical id: 42
+          bus info: cpu@64
+          size: 3213MHz
+          capacity: 3294MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:65
+          physical id: 43
+          bus info: cpu@65
+          size: 3033MHz
+          capacity: 3330MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:66
+          physical id: 44
+          bus info: cpu@66
+          size: 3294MHz
+          capacity: 3312MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:67
+          physical id: 45
+          bus info: cpu@67
+          size: 2637MHz
+          capacity: 3330MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:68
+          physical id: 46
+          bus info: cpu@68
+          size: 2988MHz
+          capacity: 3303MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:69
+          physical id: 47
+          bus info: cpu@69
+          size: 3159MHz
+          capacity: 3330MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:70
+          physical id: 48
+          bus info: cpu@70
+          size: 3177MHz
+          capacity: 3303MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:71
+          physical id: 49
+          bus info: cpu@71
+          size: 3267MHz
+          capacity: 3339MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:72
+          physical id: 4a
+          bus info: cpu@72
+          size: 3024MHz
+          capacity: 3402MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:73
+          physical id: 4b
+          bus info: cpu@73
+          size: 3843MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:74
+          physical id: 4c
+          bus info: cpu@74
+          size: 3933MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:75
+          physical id: 4d
+          bus info: cpu@75
+          size: 3267MHz
+          capacity: 3384MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:76
+          physical id: 4e
+          bus info: cpu@76
+          size: 3600MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:77
+          physical id: 4f
+          bus info: cpu@77
+          size: 3105MHz
+          capacity: 3402MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:78
+          physical id: 50
+          bus info: cpu@78
+          size: 3222MHz
+          capacity: 3393MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:79
+          physical id: 51
+          bus info: cpu@79
+          size: 3321MHz
+          capacity: 3393MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:80
+          physical id: 52
+          bus info: cpu@80
+          size: 3591MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:81
+          physical id: 53
+          bus info: cpu@81
+          size: 2925MHz
+          capacity: 3384MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:82
+          physical id: 54
+          bus info: cpu@82
+          size: 2349MHz
+          capacity: 3402MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:83
+          physical id: 55
+          bus info: cpu@83
+          size: 3429MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:84
+          physical id: 56
+          bus info: cpu@84
+          size: 3348MHz
+          capacity: 3402MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:85
+          physical id: 57
+          bus info: cpu@85
+          size: 3267MHz
+          capacity: 3375MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:86
+          physical id: 58
+          bus info: cpu@86
+          size: 3942MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:87
+          physical id: 59
+          bus info: cpu@87
+          size: 3627MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:88
+          physical id: 5a
+          bus info: cpu@88
+          size: 3267MHz
+          capacity: 3375MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:89
+          physical id: 5b
+          bus info: cpu@89
+          size: 3042MHz
+          capacity: 3384MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:90
+          physical id: 5c
+          bus info: cpu@90
+          size: 3357MHz
+          capacity: 3366MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:91
+          physical id: 5d
+          bus info: cpu@91
+          size: 3159MHz
+          capacity: 3375MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:92
+          physical id: 5e
+          bus info: cpu@92
+          size: 3276MHz
+          capacity: 3393MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:93
+          physical id: 5f
+          bus info: cpu@93
+          size: 3186MHz
+          capacity: 3375MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:94
+          physical id: 60
+          bus info: cpu@94
+          size: 2835MHz
+          capacity: 3393MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:95
+          physical id: 61
+          bus info: cpu@95
+          size: 2754MHz
+          capacity: 3402MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:96
+          physical id: 62
+          bus info: cpu@96
+          size: 3114MHz
+          capacity: 3393MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:97
+          physical id: 63
+          bus info: cpu@97
+          size: 3294MHz
+          capacity: 3402MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:98
+          physical id: 64
+          bus info: cpu@98
+          size: 2907MHz
+          capacity: 3366MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:99
+          physical id: 65
+          bus info: cpu@99
+          size: 3231MHz
+          capacity: 3402MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:100
+          physical id: 66
+          bus info: cpu@100
+          size: 2934MHz
+          capacity: 3384MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:101
+          physical id: 67
+          bus info: cpu@101
+          size: 3546MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:102
+          physical id: 68
+          bus info: cpu@102
+          size: 2628MHz
+          capacity: 3384MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:103
+          physical id: 69
+          bus info: cpu@103
+          size: 3222MHz
+          capacity: 3393MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:104
+          physical id: 6a
+          bus info: cpu@104
+          size: 3501MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:105
+          physical id: 6b
+          bus info: cpu@105
+          size: 3231MHz
+          capacity: 3393MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:106
+          physical id: 6c
+          bus info: cpu@106
+          size: 3555MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:107
+          physical id: 6d
+          bus info: cpu@107
+          size: 3582MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:108
+          physical id: 6e
+          bus info: cpu@108
+          size: 3231MHz
+          capacity: 3393MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:109
+          physical id: 6f
+          bus info: cpu@109
+          size: 3249MHz
+          capacity: 3393MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:110
+          physical id: 70
+          bus info: cpu@110
+          size: 3825MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:111
+          physical id: 71
+          bus info: cpu@111
+          size: 3411MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:112
+          physical id: 72
+          bus info: cpu@112
+          size: 3366MHz
+          capacity: 3384MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:113
+          physical id: 73
+          bus info: cpu@113
+          size: 3663MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:114
+          physical id: 74
+          bus info: cpu@114
+          size: 3159MHz
+          capacity: 3393MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:115
+          physical id: 75
+          bus info: cpu@115
+          size: 3168MHz
+          capacity: 3393MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:116
+          physical id: 76
+          bus info: cpu@116
+          size: 3042MHz
+          capacity: 3393MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:117
+          physical id: 77
+          bus info: cpu@117
+          size: 3285MHz
+          capacity: 3357MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:118
+          physical id: 78
+          bus info: cpu@118
+          size: 3249MHz
+          capacity: 3384MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:119
+          physical id: 79
+          bus info: cpu@119
+          size: 3456MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:120
+          physical id: 7a
+          bus info: cpu@120
+          size: 3591MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:121
+          physical id: 7b
+          bus info: cpu@121
+          size: 2250MHz
+          capacity: 3420MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:122
+          physical id: 7c
+          bus info: cpu@122
+          size: 3564MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:123
+          physical id: 7d
+          bus info: cpu@123
+          size: 3366MHz
+          capacity: 3393MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:124
+          physical id: 7e
+          bus info: cpu@124
+          size: 3609MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:125
+          physical id: 7f
+          bus info: cpu@125
+          size: 3321MHz
+          capacity: 3393MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:126
+          physical id: 80
+          bus info: cpu@126
+          size: 3105MHz
+          capacity: 3402MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:127
+          physical id: 81
+          bus info: cpu@127
+          size: 3006MHz
+          capacity: 3393MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:128
+          physical id: 82
+          bus info: cpu@128
+          size: 3186MHz
+          capacity: 3375MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:129
+          physical id: 83
+          bus info: cpu@129
+          size: 3240MHz
+          capacity: 3366MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:130
+          physical id: 84
+          bus info: cpu@130
+          size: 3204MHz
+          capacity: 3393MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:131
+          physical id: 85
+          bus info: cpu@131
+          size: 3690MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:132
+          physical id: 86
+          bus info: cpu@132
+          size: 3726MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:133
+          physical id: 87
+          bus info: cpu@133
+          size: 2781MHz
+          capacity: 3402MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:134
+          physical id: 88
+          bus info: cpu@134
+          size: 3411MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:135
+          physical id: 89
+          bus info: cpu@135
+          size: 3528MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:136
+          physical id: 8a
+          bus info: cpu@136
+          size: 3672MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:137
+          physical id: 8b
+          bus info: cpu@137
+          size: 3060MHz
+          capacity: 3402MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:138
+          physical id: 8c
+          bus info: cpu@138
+          size: 3132MHz
+          capacity: 3366MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:139
+          physical id: 8d
+          bus info: cpu@139
+          size: 3276MHz
+          capacity: 3384MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:140
+          physical id: 8e
+          bus info: cpu@140
+          size: 3222MHz
+          capacity: 3366MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:141
+          physical id: 8f
+          bus info: cpu@141
+          size: 3114MHz
+          capacity: 3384MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:142
+          physical id: 90
+          bus info: cpu@142
+          size: 3330MHz
+          capacity: 3384MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-cpu:143
+          physical id: 91
+          bus info: cpu@143
+          size: 3177MHz
+          capacity: 3384MHz
+          capabilities: fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma lrcpc dcpop sha3 sm3 sm4 asimddp sha512 sve asimdfhm dit uscat ilrcpc flagm sb dcpodp sve2 sveaes svepmull svebitperm svesha3 svesm4 flagm2 frint svei8mm svebf16 i8mm bf16 dgh cpufreq
+     *-pci:0
+          description: PCI bridge
+          product: NVIDIA Corporation
+          vendor: NVIDIA Corporation
+          physical id: 100
+          bus info: pci@0000:00:00.0
+          version: 00
+          width: 32 bits
+          clock: 33MHz
+          capabilities: pci normal_decode bus_master cap_list
+          configuration: driver=pcieport
+          resources: irq:106 ioport:1000(size=4096) memory:600040000000-6000401fffff ioport:6000c0000000(size=2097152)
+        *-nvme
+             description: NVMe device
+             product: SOLIDIGM SSDPFUKX019T1
+             vendor: Solidigm
+             physical id: 0
+             bus info: pci@0000:01:00.0
+             logical name: /dev/nvme0
+             version: 9CV10490
+             serial: BTAY435303RQ1P9BGN
+             width: 64 bits
+             clock: 33MHz
+             capabilities: nvme nvm_express bus_master cap_list rom
+             configuration: driver=nvme latency=0 nqn=nqn.2024-08.com.solidigm:BTAY435303RQ1P9BGN state=live
+             resources: irq:120 memory:600040010000-600040013fff memory:600040000000-60004000ffff
+           *-namespace:0
+                description: NVMe disk
+                physical id: 0
+                logical name: /dev/ng0n1
+           *-namespace:1
+                description: NVMe disk
+                physical id: 1
+                bus info: nvme@0:1
+                logical name: /dev/nvme0n1
+                configuration: wwid=eui.0100000000000000c8d6b79c6e940f50
+     *-pci:1
+          description: PCI bridge
+          product: NVIDIA Corporation
+          vendor: NVIDIA Corporation
+          physical id: 101
+          bus info: pci@0001:00:00.0
+          version: 00
+          width: 32 bits
+          clock: 33MHz
+          capabilities: pci normal_decode bus_master cap_list
+          configuration: driver=pcieport
+          resources: irq:107 ioport:10000(size=4096) memory:608040000000-6080401fffff ioport:6080c0000000(size=2097152)
+     *-pci:2
+          description: PCI bridge
+          product: NVIDIA Corporation
+          vendor: NVIDIA Corporation
+          physical id: 102
+          bus info: pci@0002:00:00.0
+          version: 00
+          width: 32 bits
+          clock: 33MHz
+          capabilities: pci normal_decode bus_master cap_list
+          configuration: driver=pcieport
+          resources: irq:108 ioport:20000(size=4096) memory:610040000000-6100401fffff ioport:6100c0000000(size=2097152)
+     *-pci:3
+          description: PCI bridge
+          product: NVIDIA Corporation
+          vendor: NVIDIA Corporation
+          physical id: 103
+          bus info: pci@0004:00:00.0
+          version: 00
+          width: 32 bits
+          clock: 33MHz
+          capabilities: pci normal_decode bus_master cap_list
+          configuration: driver=pcieport
+          resources: irq:109 ioport:30000(size=4096) memory:620040000000-6200401fffff ioport:6200c0000000(size=2097152)
+     *-pci:4
+          description: PCI bridge
+          product: NVIDIA Corporation
+          vendor: NVIDIA Corporation
+          physical id: 104
+          bus info: pci@0006:00:00.0
+          version: 00
+          width: 32 bits
+          clock: 33MHz
+          capabilities: pci normal_decode bus_master cap_list
+          configuration: driver=pcieport
+          resources: irq:110 ioport:40000(size=4096) memory:630040000000-6300401fffff ioport:6300c0000000(size=100663296)
+        *-network:0
+             description: Ethernet interface
+             product: MT2894 Family [ConnectX-6 Lx]
+             vendor: Mellanox Technologies
+             physical id: 0
+             bus info: pci@0006:01:00.0
+             logical name: ngt
+             version: 00
+             serial: c4:70:bd:fd:77:38
+             size: 10Gbit/s
+             capacity: 25Gbit/s
+             width: 64 bits
+             clock: 33MHz
+             capabilities: bus_master cap_list rom ethernet physical 1000bt-fd 1000bx-fd 10000bt-fd 10000bx-fd 25000bx-fd autonegotiation
+             configuration: autonegotiation=on broadcast=yes driver=mlx5_core driverversion=25.04-0.6.1 duplex=full firmware=26.43.2566 (MT_0000000531) ip=10.100.100.26 latency=0 link=yes multicast=yes speed=10Gbit/s
+             resources: iomemory:63000-62fff irq:257 memory:6300c0000000-6300c1ffffff memory:630040000000-6300400fffff memory:6300c4000000-6300c47fffff
+        *-network:1 DISABLED
+             description: Ethernet interface
+             product: MT2894 Family [ConnectX-6 Lx]
+             vendor: Mellanox Technologies
+             physical id: 0.1
+             bus info: pci@0006:01:00.1
+             logical name: enP6s6f1np1
+             version: 00
+             serial: c4:70:bd:fd:77:39
+             capacity: 25Gbit/s
+             width: 64 bits
+             clock: 33MHz
+             capabilities: bus_master cap_list rom ethernet physical 1000bt-fd 1000bx-fd 10000bt-fd 10000bx-fd 25000bx-fd autonegotiation
+             configuration: autonegotiation=on broadcast=yes driver=mlx5_core driverversion=25.04-0.6.1 firmware=26.43.2566 (MT_0000000531) latency=0 link=no multicast=yes
+             resources: iomemory:63000-62fff irq:322 memory:6300c2000000-6300c3ffffff memory:630040100000-6300401fffff memory:6300c4800000-6300c4ffffff
+     *-pci:5
+          description: PCI bridge
+          product: NVIDIA Corporation
+          vendor: NVIDIA Corporation
+          physical id: 105
+          bus info: pci@0008:00:00.0
+          version: 00
+          width: 32 bits
+          clock: 33MHz
+          capabilities: pci normal_decode bus_master cap_list
+          configuration: driver=pcieport
+          resources: irq:111 ioport:50000(size=4096) memory:650040000000-6500417fffff ioport:6500c0000000(size=2097152)
+        *-pci
+             description: PCI bridge
+             product: AST1150 PCI-to-PCI Bridge
+             vendor: ASPEED Technology, Inc.
+             physical id: 0
+             bus info: pci@0008:01:00.0
+             version: 06
+             width: 32 bits
+             clock: 33MHz
+             capabilities: pci normal_decode bus_master cap_list
+             resources: ioport:50000(size=4096) memory:650040000000-6500417fffff
+           *-display
+                description: VGA compatible controller
+                product: ASPEED Graphics Family
+                vendor: ASPEED Technology, Inc.
+                physical id: 0
+                bus info: pci@0008:02:00.0
+                logical name: /dev/fb0
+                version: 52
+                width: 32 bits
+                clock: 33MHz
+                capabilities: vga_controller cap_list fb
+                configuration: depth=32 driver=ast latency=0 resolution=1024,768
+                resources: irq:112 memory:650040000000-650040ffffff memory:650041000000-65004103ffff ioport:50000(size=128)
+     *-pci:6
+          description: PCI bridge
+          product: NVIDIA Corporation
+          vendor: NVIDIA Corporation
+          physical id: 106
+          bus info: pci@0010:00:00.0
+          version: 00
+          width: 32 bits
+          clock: 33MHz
+          capabilities: pci normal_decode bus_master cap_list
+          configuration: driver=pcieport
+          resources: irq:113 ioport:60000(size=4096) memory:680040000000-6800401fffff ioport:6800c0000000(size=2097152)
+     *-pci:7
+          description: PCI bridge
+          product: NVIDIA Corporation
+          vendor: NVIDIA Corporation
+          physical id: 107
+          bus info: pci@0011:00:00.0
+          version: 00
+          width: 32 bits
+          clock: 33MHz
+          capabilities: pci normal_decode bus_master cap_list
+          configuration: driver=pcieport
+          resources: irq:114 ioport:70000(size=4096) memory:688040000000-6880401fffff ioport:6880c0000000(size=2097152)
+     *-pci:8
+          description: PCI bridge
+          product: NVIDIA Corporation
+          vendor: NVIDIA Corporation
+          physical id: 108
+          bus info: pci@0012:00:00.0
+          version: 00
+          width: 32 bits
+          clock: 33MHz
+          capabilities: pci normal_decode bus_master cap_list
+          configuration: driver=pcieport
+          resources: irq:115 ioport:80000(size=4096) memory:690040000000-6900401fffff ioport:6900c0000000(size=2097152)
+     *-pci:9
+          description: PCI bridge
+          product: NVIDIA Corporation
+          vendor: NVIDIA Corporation
+          physical id: 109
+          bus info: pci@0014:00:00.0
+          version: 00
+          width: 32 bits
+          clock: 33MHz
+          capabilities: pci normal_decode bus_master cap_list
+          configuration: driver=pcieport
+          resources: irq:116 ioport:90000(size=4096) memory:6a0040000000-6a00401fffff ioport:6a00c0000000(size=2097152)
+     *-pci:10
+          description: PCI bridge
+          product: NVIDIA Corporation
+          vendor: NVIDIA Corporation
+          physical id: 10a
+          bus info: pci@0015:00:00.0
+          version: 00
+          width: 32 bits
+          clock: 33MHz
+          capabilities: pci normal_decode bus_master cap_list
+          configuration: driver=pcieport
+          resources: irq:117 ioport:a0000(size=4096) memory:6a8040000000-6a80401fffff ioport:6a80c0000000(size=2097152)
+     *-pci:11
+          description: PCI bridge
+          product: NVIDIA Corporation
+          vendor: NVIDIA Corporation
+          physical id: 10b
+          bus info: pci@0016:00:00.0
+          version: 00
+          width: 32 bits
+          clock: 33MHz
+          capabilities: pci normal_decode bus_master cap_list
+          configuration: driver=pcieport
+          resources: irq:118 ioport:b0000(size=4096) memory:6b0040000000-6b00401fffff ioport:6b00c0000000(size=83886080)
+        *-network:0
+             description: interface
+             product: MT43244 BlueField-3 integrated ConnectX-7 network controller
+             vendor: Mellanox Technologies
+             physical id: 0
+             bus info: pci@0016:01:00.0
+             logical name: ib0
+             version: 01
+             serial: 00:00:00:8c:fe:80:00:00:00:00:00:00:b8:e9:00:00:00:00:00:00
+             width: 64 bits
+             clock: 33MHz
+             capabilities: bus_master cap_list rom physical
+             configuration: autonegotiation=off broadcast=yes driver=mlx5_core[ib_ipoib] driverversion=25.04-0.6.1 duplex=full firmware=32.43.1014 (MT_0000000884) ip=10.100.101.1 latency=0 link=yes multicast=yes
+             resources: iomemory:6b000-6afff irq:387 memory:6b00c0000000-6b00c1ffffff memory:6b0040000000-6b00400fffff
+        *-network:1 DISABLED
+             description: interface
+             product: MT43244 BlueField-3 integrated ConnectX-7 network controller
+             vendor: Mellanox Technologies
+             physical id: 0.1
+             bus info: pci@0016:01:00.1
+             logical name: ibP22s22f1
+             version: 01
+             serial: 00:00:01:fd:fe:80:00:00:00:00:00:00:b8:e9:00:00:00:00:00:00
+             width: 64 bits
+             clock: 33MHz
+             capabilities: bus_master cap_list rom physical
+             configuration: autonegotiation=off broadcast=yes driver=mlx5_core[ib_ipoib] driverversion=25.04-0.6.1 firmware=32.43.1014 (MT_0000000884) latency=0 link=no multicast=yes
+             resources: iomemory:6b000-6afff irq:452 memory:6b00c2000000-6b00c3ffffff memory:6b0040100000-6b00401fffff
+        *-generic UNCLAIMED
+             description: DMA controller
+             product: MT43244 BlueField-3 SoC Management Interface
+             vendor: Mellanox Technologies
+             physical id: 0.2
+             bus info: pci@0016:01:00.2
+             version: 01
+             width: 64 bits
+             clock: 33MHz
+             capabilities: 8237 cap_list
+             configuration: latency=0
+             resources: iomemory:6b000-6afff memory:6b00c4000000-6b00c47fffff
+     *-pci:12
+          description: PCI bridge
+          product: NVIDIA Corporation
+          vendor: NVIDIA Corporation
+          physical id: 0
+          bus info: pci@0018:00:00.0
+          version: 00
+          width: 32 bits
+          clock: 33MHz
+          capabilities: pci normal_decode bus_master cap_list
+          configuration: driver=pcieport
+          resources: irq:119 ioport:c0000(size=4096) memory:6d0040000000-6d00401fffff ioport:6d00c0000000(size=2097152)
+        *-usb
+             description: USB controller
+             product: uPD720201 USB 3.0 Host Controller
+             vendor: Renesas Electronics Corp.
+             physical id: 0
+             bus info: pci@0018:01:00.0
+             version: 03
+             width: 64 bits
+             clock: 33MHz
+             capabilities: xhci bus_master cap_list
+             configuration: driver=xhci-pci-renesas latency=0
+             resources: irq:96 memory:6d0040000000-6d0040001fff
+     *-pnp00:00
+          product: PnP device PNP0c02
+          physical id: 92
+          capabilities: pnp
+          configuration: driver=system
+     *-pnp00:01
+          product: PnP device PNP0c02
+          physical id: 93
+          capabilities: pnp
+          configuration: driver=system
+     *-pnp00:02
+          product: PnP device PNP0c02
+          physical id: 94
+          capabilities: pnp
+          configuration: driver=system
+     *-pnp00:03
+          product: PnP device PNP0c02
+          physical id: 95
+          capabilities: pnp
+          configuration: driver=system
+     *-pnp00:04
+          product: PnP device PNP0c02
+          physical id: 96
+          capabilities: pnp
+          configuration: driver=system
+     *-pnp00:05
+          product: PnP device PNP0c02
+          physical id: 97
+          capabilities: pnp
+          configuration: driver=system
+     *-pnp00:06
+          product: PnP device PNP0c02
+          physical id: 98
+          capabilities: pnp
+          configuration: driver=system
+     *-pnp00:07
+          product: PnP device PNP0c02
+          physical id: 99
+          capabilities: pnp
+          configuration: driver=system
+     *-pnp00:08
+          product: PnP device PNP0c02
+          physical id: 9a
+          capabilities: pnp
+          configuration: driver=system
+     *-pnp00:09
+          product: PnP device PNP0c02
+          physical id: 9b
+          capabilities: pnp
+          configuration: driver=system
+     *-pnp00:0a
+          product: PnP device PNP0c02
+          physical id: 9c
+          capabilities: pnp
+          configuration: driver=system
+     *-pnp00:0b
+          product: PnP device PNP0c02
+          physical id: 9d
+          capabilities: pnp
+          configuration: driver=system
+     *-pnp00:0c
+          product: PnP device PNP0c02
+          physical id: 9e
+          capabilities: pnp
+          configuration: driver=system
+  *-input:0
+       product: Linux 5.4.62 with aspeed_vhub SMCI HID KM
+       physical id: 1
+       logical name: input0
+       logical name: /dev/input/event0
+       logical name: input0::capslock
+       logical name: input0::compose
+       logical name: input0::kana
+       logical name: input0::numlock
+       logical name: input0::scrolllock
+       capabilities: usb
+  *-input:1
+       product: Linux 5.4.62 with aspeed_vhub SMCI HID KM
+       physical id: 2
+       logical name: input1
+       logical name: /dev/input/event1
+       logical name: /dev/input/mouse0
+       capabilities: usb
+  *-network DISABLED
+       description: Ethernet interface
+       physical id: 3
+       bus info: usb@1:1.2
+       logical name: enP24s24u1u2c2
+       serial: 5a:b2:b9:d4:11:ec
+       capabilities: ethernet physical
+       configuration: autonegotiation=off broadcast=yes driver=rndis_host driverversion=5.14.0-570.21.1.el9_6.aarch64 duplex=half firmware=RNDIS device link=no multicast=yes port=twisted pair

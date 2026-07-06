@@ -1,0 +1,22 @@
+items: 536870912
+threads: 4
+os: FreeBSD
+arch: amd64
+cpu: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+,benchmark-536870912.out
+,sec/op,CI
+GenericFull,6.87256215,0%
+SwcFull,4.2510575500000005,0%
+PermutedFull,4.051162850000001,0%
+BitmanipFull,3.2965646000000004,0%
+ParallelFull,1.9227539500000002,4%
+geomean,3.7586867494631035
+
+,benchmark-536870912.out
+,B/s,CI
+GenericFull,6.24944165e+08,0%
+SwcFull,1.01032915e+09,0%
+PermutedFull,1.06018135e+09,0%
+BitmanipFull,1.30286155e+09,0%
+ParallelFull,2.23377725e+09,4%
+geomean,1.1426796113269591e+09

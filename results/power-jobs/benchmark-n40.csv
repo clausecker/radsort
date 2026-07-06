@@ -1,0 +1,13 @@
+items: 17179869184
+threads: 40
+os: Linux
+arch: ppc64le
+,benchmark-n40.out
+,sec/op,CI
+ParallelFull,83.992717,8%
+geomean,83.992717
+
+,benchmark-n40.out
+,B/s,CI
+ParallelFull,1.63632545e+09,9%
+geomean,1.636325450000001e+09
