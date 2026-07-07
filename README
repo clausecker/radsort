@@ -6,6 +6,8 @@ This repository holds supplementary material for the paper
 and F. Schintke.  It is made available under a 2-clause BSD
 license.
 
+You can find the paper at https://arxiv.org/abs/2607.05302
+
 The benchmarks sort 32 bit integers in four passes.
 
 To compile:
